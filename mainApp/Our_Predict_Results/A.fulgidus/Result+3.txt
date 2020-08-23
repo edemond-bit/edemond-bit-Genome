@@ -1,0 +1,6 @@
+NC_000917_1039294+1039599	1	71.000%	30.000000	306	V-type ATP synthase subunit F 
+NC_000917_817369+817674	1	100.000%	30.000000	306	translation initiation factor Sui1 
+NC_000917_1778680+1778988	1	90.500%	20.000000	309	periplasmic divalent cation tolerance protein (cutA) 
+NC_000917_1349684+1350004	1	92.000%	0.000000	321	50S ribosomal protein L12P 
+NC_000917_1752865+1753191	1	100.000%	0.000000	327	phosphoribosyl-AMP cyclohydrolase/phosphoribosyl-ATP pyrophosphohydrolase (hisIE) 
+NC_000917_677744+678043	2	91.500%	90.000000	300	transcription initiation factor IIE, subunit alpha, putative 

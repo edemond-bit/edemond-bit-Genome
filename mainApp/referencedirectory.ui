@@ -1,0 +1,280 @@
+<!DOCTYPE UI><UI version="3.3" stdsetdef="1">
+<class>ReferenceDirectory</class>
+<widget class="QDialog">
+    <property name="name">
+        <cstring>ReferenceDirectory</cstring>
+    </property>
+    <property name="geometry">
+        <rect>
+            <x>0</x>
+            <y>0</y>
+            <width>566</width>
+            <height>344</height>
+        </rect>
+    </property>
+    <property name="caption">
+        <string>Choose Directory</string>
+    </property>
+    <widget class="QLabel">
+        <property name="name">
+            <cstring>textLabel1</cstring>
+        </property>
+        <property name="geometry">
+            <rect>
+                <x>80</x>
+                <y>310</y>
+                <width>260</width>
+                <height>20</height>
+            </rect>
+        </property>
+        <property name="text">
+            <string>NOTE: Skip if directory paths are correct</string>
+        </property>
+    </widget>
+    <widget class="QGroupBox">
+        <property name="name">
+            <cstring>groupBoxGene_Mark</cstring>
+        </property>
+        <property name="geometry">
+            <rect>
+                <x>29</x>
+                <y>219</y>
+                <width>500</width>
+                <height>80</height>
+            </rect>
+        </property>
+        <property name="title">
+            <string>Enter directory path of Gene_Mark data</string>
+        </property>
+        <widget class="QSplitter">
+            <property name="name">
+                <cstring>splitter5</cstring>
+            </property>
+            <property name="geometry">
+                <rect>
+                    <x>20</x>
+                    <y>30</y>
+                    <width>460</width>
+                    <height>30</height>
+                </rect>
+            </property>
+            <property name="orientation">
+                <enum>Horizontal</enum>
+            </property>
+            <widget class="QLineEdit">
+                <property name="name">
+                    <cstring>lineEdit109_3</cstring>
+                </property>
+            </widget>
+            <widget class="QPushButton">
+                <property name="name">
+                    <cstring>pushButton167_3</cstring>
+                </property>
+                <property name="text">
+                    <string>Browse</string>
+                </property>
+            </widget>
+        </widget>
+    </widget>
+    <widget class="QGroupBox">
+        <property name="name">
+            <cstring>groupBoxNCBI</cstring>
+        </property>
+        <property name="geometry">
+            <rect>
+                <x>30</x>
+                <y>30</y>
+                <width>500</width>
+                <height>80</height>
+            </rect>
+        </property>
+        <property name="title">
+            <string>Enter directory path of NCBI data</string>
+        </property>
+        <widget class="QSplitter">
+            <property name="name">
+                <cstring>splitter6</cstring>
+            </property>
+            <property name="geometry">
+                <rect>
+                    <x>20</x>
+                    <y>30</y>
+                    <width>460</width>
+                    <height>30</height>
+                </rect>
+            </property>
+            <property name="orientation">
+                <enum>Horizontal</enum>
+            </property>
+            <widget class="QLineEdit">
+                <property name="name">
+                    <cstring>lineEdit109</cstring>
+                </property>
+            </widget>
+            <widget class="QPushButton">
+                <property name="name">
+                    <cstring>pushButton167</cstring>
+                </property>
+                <property name="text">
+                    <string>Browse</string>
+                </property>
+            </widget>
+        </widget>
+    </widget>
+    <widget class="QGroupBox">
+        <property name="name">
+            <cstring>groupBoxGlimmer</cstring>
+        </property>
+        <property name="geometry">
+            <rect>
+                <x>30</x>
+                <y>120</y>
+                <width>500</width>
+                <height>80</height>
+            </rect>
+        </property>
+        <property name="title">
+            <string>Enter directory path of Glimmer data</string>
+        </property>
+        <widget class="QSplitter">
+            <property name="name">
+                <cstring>splitter3</cstring>
+            </property>
+            <property name="geometry">
+                <rect>
+                    <x>20</x>
+                    <y>30</y>
+                    <width>460</width>
+                    <height>30</height>
+                </rect>
+            </property>
+            <property name="orientation">
+                <enum>Horizontal</enum>
+            </property>
+            <widget class="QLineEdit">
+                <property name="name">
+                    <cstring>lineEdit109_2</cstring>
+                </property>
+            </widget>
+            <widget class="QPushButton">
+                <property name="name">
+                    <cstring>pushButton167_2</cstring>
+                </property>
+                <property name="text">
+                    <string>Browse</string>
+                </property>
+            </widget>
+        </widget>
+    </widget>
+    <widget class="QPushButton">
+        <property name="name">
+            <cstring>pushButton170</cstring>
+        </property>
+        <property name="geometry">
+            <rect>
+                <x>440</x>
+                <y>310</y>
+                <width>90</width>
+                <height>24</height>
+            </rect>
+        </property>
+        <property name="text">
+            <string>Ok</string>
+        </property>
+    </widget>
+    <widget class="QPushButton">
+        <property name="name">
+            <cstring>pushButton171</cstring>
+        </property>
+        <property name="geometry">
+            <rect>
+                <x>340</x>
+                <y>310</y>
+                <width>90</width>
+                <height>24</height>
+            </rect>
+        </property>
+        <property name="text">
+            <string>Skip</string>
+        </property>
+    </widget>
+</widget>
+<connections>
+    <connection>
+        <sender>pushButton167</sender>
+        <signal>clicked()</signal>
+        <receiver>ReferenceDirectory</receiver>
+        <slot>pushButton167_clicked()</slot>
+    </connection>
+    <connection>
+        <sender>pushButton167_2</sender>
+        <signal>clicked()</signal>
+        <receiver>ReferenceDirectory</receiver>
+        <slot>pushButton167_2_clicked()</slot>
+    </connection>
+    <connection>
+        <sender>pushButton167_3</sender>
+        <signal>clicked()</signal>
+        <receiver>ReferenceDirectory</receiver>
+        <slot>pushButton167_3_clicked()</slot>
+    </connection>
+    <connection>
+        <sender>pushButton170</sender>
+        <signal>clicked()</signal>
+        <receiver>ReferenceDirectory</receiver>
+        <slot>pushButton170_clicked()</slot>
+    </connection>
+    <connection>
+        <sender>pushButton171</sender>
+        <signal>clicked()</signal>
+        <receiver>ReferenceDirectory</receiver>
+        <slot>pushButton171_clicked()</slot>
+    </connection>
+    <connection>
+        <sender>ReferenceDirectory</sender>
+        <signal>destroyed(QObject*)</signal>
+        <receiver>ReferenceDirectory</receiver>
+        <slot>ReferenceDirectory_destroyed(QObject*)</slot>
+    </connection>
+</connections>
+<tabstops>
+    <tabstop>lineEdit109</tabstop>
+    <tabstop>pushButton167</tabstop>
+    <tabstop>lineEdit109_2</tabstop>
+    <tabstop>pushButton167_2</tabstop>
+    <tabstop>lineEdit109_3</tabstop>
+    <tabstop>pushButton167_3</tabstop>
+    <tabstop>pushButton171</tabstop>
+    <tabstop>pushButton170</tabstop>
+</tabstops>
+<includes>
+    <include location="local" impldecl="in declaration">qfiledialog.h</include>
+    <include location="local" impldecl="in declaration">qmessagebox.h</include>
+    <include location="local" impldecl="in declaration">qdir.h</include>
+    <include location="local" impldecl="in declaration">qdom.h</include>
+    <include location="local" impldecl="in declaration">qapplication.h</include>
+    <include location="local" impldecl="in declaration">qlineedit.h</include>
+    <include location="local" impldecl="in implementation">referencedirectory.ui.h</include>
+</includes>
+<variables>
+    <variable access="public">QDomDocument ncbiDom;</variable>
+</variables>
+<slots>
+    <slot>getDatabasePath( QLineEdit * l, QString t )</slot>
+    <slot>pushButton167_clicked()</slot>
+    <slot>pushButton1_clicked()</slot>
+    <slot>prepXML_FileList( QString * resultName, QString * dirName )</slot>
+    <slot>pushButton167_2_clicked()</slot>
+    <slot>pushButton167_3_clicked()</slot>
+    <slot>pushButton170_clicked()</slot>
+    <slot>checkAndCreateXML( int test )</slot>
+    <slot>setOption( int n )</slot>
+    <slot>pushButton171_clicked()</slot>
+    <slot>ReferenceDirectory_destroyed( QObject * )</slot>
+</slots>
+<functions>
+    <function access="private" specifier="non virtual">init()</function>
+    <function returnType="QString">selectFile( QString * )</function>
+</functions>
+<layoutdefaults spacing="6" margin="11"/>
+</UI>

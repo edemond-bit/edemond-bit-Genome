@@ -1,0 +1,15 @@
+1) Path Name
+2) R-Statistictic Computation result's file
+3) Potential Gene Sequence
+4) Potential Non Gene Sequence
+5) Non Potential Sequence
+6) Result file Name ~ Number of Path geven as input
+.
+.
+.
+
+1) Path Count
+2) Total Sequence Count
+3) Potential Gene Count
+4) Potential Non Gene Count
+5) Non Potential Sequence

@@ -1,0 +1,7 @@
+<states>
+	<state id="0" value="Random Computation not started"/>
+	<state id="20" value="Random Computation incomplete"/>
+	<state id="100" value="Random Computation completed successfully."/>
+</states>
+	
+	

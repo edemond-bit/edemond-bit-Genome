@@ -1,0 +1,1 @@
+Sequence Name	Match Sequence in Positive Strand	Percentage Matching	Match Type(0~Absolute,1~Partial(stop),2~Partial(start),3~Over absolute)	Prediction Confidence	R-Statistic	Length

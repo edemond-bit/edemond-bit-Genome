@@ -1,0 +1,20 @@
+<application>
+ <sequence path="" state="sequencStates" name="" >
+  <orf state="0" stateTable="orfState.xml" />
+  <random state="0" stateTable="randomState.xml" />
+  <prediction state="0" stateTable="predictionState.xml" >
+   <R_statistic state="0" stateTable="r-stateState.xml" >
+    <threshold state="0" stateTable="r-statThresholdState.xml" />
+    <pattern_filter state="0" stateTable="r-stateFilter.xml" />
+    <neighberhood state="0" stateTable="r-statNeighber.xml" />
+    <reThreshold state="0" stateTable="r-reThresholdState.xml" />
+   </R_statistic>
+   <P_value state="0" stateTable="p-valueState.xml" >
+    <threshold state="0" stateTable="p-valueThresholdState.xml" />
+    <pattern_filter state="0" stateTable="p-valueFilter.xml" />
+    <neighberood state="0" stateTable="p-valueNeighber.xml" />
+    <reThreshold state="0" stateTable="p-reThresholdState.xml" />
+   </P_value>
+  </prediction>
+ </sequence>
+</application>

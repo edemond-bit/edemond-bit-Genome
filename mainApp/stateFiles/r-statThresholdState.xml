@@ -1,0 +1,9 @@
+<states>
+	<state id="0"  value="Threshold not started"/>
+	<state id="10" value="Random not generated"/>
+	<state id="20" value="RStat compution of random incomplete"/>
+	<state id="50" value="Threshold not completed"/>
+	<state id="100" value="Thresholding completed"/>
+</states>
+	
+	

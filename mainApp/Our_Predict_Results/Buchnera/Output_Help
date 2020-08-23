@@ -1,0 +1,24 @@
+Cmmand line Output description : 
+1 ORFs detected by both our program and NCBI annotation as genes
+2 Stop codon matched with NCBI, but different start (Multiple start codons)
+3 ORFs detected by our program as genes but missed in NCBI annotation
+4 ORFs detected in NCBI annotation as genes but missed by our program (missed for some other reasons like gene length (<300), start codon other than ATG, GTG etc
+5 ORFs detected in NCBI annotation as genes but predicted as non gene by our program
+6 ORFs  predicted as non gene by both our program and NCBI annotation
+
+
+Output file description
+Result+1.txt file contains ----->
+     1 ORFs detected by both our program and NCBI annotation as genes
+     2 Stop codon matched with NCBI, but different start (Multiple start codons
+     3 ORFs detected by our program as genes but missed in NCBI annotation
+
+Result+2.txt file contains------>
+                                   ORFs detected in NCBI annotation as genes but missed by our program (missed for some other reasons like gene length (<300), start codon other than ATG, GTG etc)
+
+Result+3.txt file contains------->
+                                   ORFs detected in NCBI annotation as genes but predicted as non gene by our program
+                                   1 Stop and Start Codon matched.
+                                   2 Stop codon matched with NCBI, but different start (Multiple start codons)
+
+(Same description for - files, for negative strand)

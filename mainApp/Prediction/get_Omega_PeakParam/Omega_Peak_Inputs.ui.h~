@@ -1,0 +1,489 @@
+/****************************************************************************
+** ui.h extension file, included from the uic-generated form implementation.
+**
+** If you want to add, delete, or rename functions or slots, use
+** Qt Designer to update this file, preserving your code.
+**
+** You should not define a constructor or destructor in this file.
+** Instead, write your code in functions called init() and destroy().
+** These will automatically be called by the form's constructor and
+** destructor.
+*****************************************************************************/
+#include <string.h>
+#include <qstring.h>
+#include <qfiledialog.h>
+#include <qtextstream.h>
+#include <qfile.h>
+#include <qstringlist.h>
+#include <qmessagebox.h>
+
+#include "../../GenePrediction.h"
+
+
+
+void Omega_Peak_Inputs::init()
+{
+   // chkAdaptive->setChecked(true);
+  //  isGet_OmegaPeak = false;
+//    isAdaptive = -1;
+     isAdaptive = 1;
+ isGet_OmegaPeak = true;
+ //closeFlag = true;
+// close();
+    
+    
+    
+    
+     txtOmegaNum->setText(QString("600"));
+ txtOmegaNum->setEnabled(true);
+ cmdOmegaNum->setEnabled(true);
+ frmGeneral->setEnabled(true);
+ setOmega();
+ setRStatistic();
+    
+    
+    
+}
+/*bool Omega_Peak_Inputs::WasCanceled(){
+  if(this->wasCanceled()){
+  }
+}*/
+/*void Omega_Peak_Inputs::chkAdaptive_toggled( bool state)
+{
+    if(state == true)
+    {
+ txtOmegaNum->setText("");
+ txtOmegaNum->setEnabled(false);
+ cmdOmegaNum->setEnabled(false);
+ frmGeneral->setEnabled(false);
+ resetOmega();
+ resetRStatistic();
+    }
+    else if(state == false)
+    {
+ txtOmegaNum->setText(QString("600"));
+ txtOmegaNum->setEnabled(true);
+ cmdOmegaNum->setEnabled(true);
+ frmGeneral->setEnabled(true);
+ setOmega();
+ setRStatistic();
+    }
+}*/
+
+void Omega_Peak_Inputs::cmdOmegaNum_clicked()
+{
+    bool ok; 
+    
+    if(txtOmegaNum->text().isEmpty())
+ FileErrorSlot("/'Number of Omega Values/' field is empty!");
+    else if(txtOmegaNum->text().toInt(&ok,10) % 3 == 0)
+    {
+ frmGeneral->setEnabled(true);
+ setOmega();
+ setRStatistic();
+    }
+    else
+ FileErrorSlot("Value in the field /'Number of Omega Values/' is not multiple of 3!");
+}
+
+void Omega_Peak_Inputs::txtOmegaNum_textChanged( const QString &Num)
+{
+    bool ok;
+    QString str = Num,str1;
+    str1 = txtOmegaNum->text();
+    unsigned int Number = str.toUInt(&ok,10);
+    if(ok == false)
+    {
+ str1.remove(str1.length()-1,1);
+ txtOmegaNum->setText(str1);
+    }
+    else if(ok == true && Number < 1)
+    {
+ Number = 1;
+ str.sprintf("%u",Number);
+ txtOmegaNum->setText(str);
+    }
+}
+
+void Omega_Peak_Inputs::setOmega()
+{
+    QString str;
+    double temp;
+    bool ok;
+    double gene_seqLength;
+    
+    gene_seqLength = txtOmegaNum->text().toDouble(&ok);
+    temp = (0.001 >= 2.0/ gene_seqLength ? 0.001 : 2.0/ gene_seqLength);
+    str.sprintf("%0.12lf",temp);
+    txtInitOmega->setText(str);
+    temp = ((1.00 - 0.001) <= 1.0 - 2.0/ gene_seqLength ? 1.00 - 0.001 : 1.0 - 2.0/ gene_seqLength);
+    str.sprintf("%0.12lf",temp);
+    txtEnd->setText(str);
+    temp = (0.001 >= 1.0/ gene_seqLength ? 0.001 : 1.0/ gene_seqLength);
+    str.sprintf("%0.12lf",temp);
+    txtWith->setText(str);
+}
+
+void Omega_Peak_Inputs::resetOmega()
+{
+    QString str;
+    str.sprintf(" ");
+    txtInitOmega->setText(str);
+    txtEnd->setText(str);
+    txtWith->setText(str);
+}
+
+void Omega_Peak_Inputs::setRStatistic()
+{
+    QString str;
+    double temp;
+    double gene_seqLength;
+    bool ok;
+    
+    gene_seqLength = txtOmegaNum->text().toDouble(&ok);
+    temp = (0.02 >= 2.0 / gene_seqLength ? 0.02 : 2.0 / gene_seqLength);
+    str.sprintf("%0.2lf",temp);
+    
+    txtLClipFrom->setText(str);
+    temp = 0.31;
+    str.sprintf("%0.12lf",temp);
+    txtLClipTo->setText(str);
+    temp = 0.35;
+    str.sprintf("%0.12lf",temp);
+    txtRClipFrom->setText(str);
+    temp = (0.5 <= 1.0 - 2.0/ gene_seqLength ? 0.5 : 1.0 - 2.0/ gene_seqLength);
+    str.sprintf("%0.12lf",temp);
+    txtRClipTo->setText(str);
+    temp = 0.333333;
+    str.sprintf("%0.12lf",temp);
+    txtPeakValue->setText(str);
+}
+
+void Omega_Peak_Inputs::resetRStatistic()
+{
+    QString str;
+    str.sprintf(" ");
+    txtLClipFrom->setText(str);
+    txtLClipTo->setText(str);
+    txtRClipFrom->setText(str);
+    txtRClipTo->setText(str);
+    txtPeakValue->setText(str);
+}
+
+void Omega_Peak_Inputs::txtLClipFrom_textChanged( const QString &Num)
+{
+    bool ok;
+    QString str = Num;
+    double gene_seqLength;
+    
+    gene_seqLength = txtOmegaNum->text().toDouble(&ok);
+    double Number = str.toDouble(&ok);
+    if(ok == false)
+    {
+ Number = 0;
+ str.remove(0,str.length());
+ txtLClipFrom->setText(str);
+    }
+    else if(Number < 2.0 / gene_seqLength || Number >= txtLClipTo->text().toDouble(&ok))
+    {
+ Number = (0.02 >= 2.0/ gene_seqLength ? 0.02 : 2.0/ gene_seqLength);
+ str.sprintf("%0.12lf",Number);
+ txtLClipFrom->setText(str);
+    }
+}
+
+void Omega_Peak_Inputs::txtLClipTo_textChanged( const QString & Num)
+{
+    bool ok;
+    QString str = Num;
+    double gene_seqLength;
+    
+    gene_seqLength = txtOmegaNum->text().toDouble(&ok);
+    double Number = str.toDouble(&ok);
+    if(ok == false)
+    {
+ Number = 0;
+ str.remove(0,str.length());
+ txtLClipTo->setText(str);
+    }
+    else if(Number <= txtLClipFrom->text().toDouble(&ok) || Number >= txtRClipFrom->text().toDouble(&ok))
+    {
+     Number = 0.31;
+     str.sprintf("%0.12lf",Number);
+     txtLClipTo->setText(str);
+    }
+}
+
+void Omega_Peak_Inputs::txtRClipFrom_textChanged( const QString & Num)
+{
+    bool ok;
+    QString str = Num;
+    double gene_seqLength;
+    
+    gene_seqLength = txtOmegaNum->text().toDouble(&ok);
+    double Number = str.toDouble(&ok);
+    if(ok == false)
+    {
+ Number = 0;
+ str.remove(0,str.length());
+ txtRClipFrom->setText(str);
+    } 
+    else if(Number <= txtLClipTo->text().toDouble(&ok) || Number >= txtRClipTo->text().toDouble())
+    {
+     Number = 0.35;
+     str.sprintf("%0.12lf",Number);
+     txtRClipFrom->setText(str);
+    }
+}
+
+void Omega_Peak_Inputs::txtRClipTo_textChanged( const QString & Num)
+{
+    bool ok;
+    QString str = Num;
+    double gene_seqLength;
+    
+    gene_seqLength = txtOmegaNum->text().toDouble(&ok);
+    double Number = str.toDouble(&ok);
+    if(ok == false)
+    {
+ Number = 0;
+ str.remove(0,str.length());
+ txtRClipTo->setText(str);
+    }
+    else if(Number <= txtRClipFrom->text().toDouble(&ok) || Number > 1.0 - 2.0/ gene_seqLength)
+    {
+ Number = (0.5 <= 1.0 - 2.0/ gene_seqLength ? 0.5 : 1.0 - 2.0/ gene_seqLength);
+ str.sprintf("%0.12lf",Number);
+ txtRClipTo->setText(str);
+    }
+}
+
+void Omega_Peak_Inputs::txtPeakValue_textChanged( const QString & Num)
+{
+    bool ok;
+    QString str = Num;
+    double gene_seqLength;
+    
+    gene_seqLength = txtOmegaNum->text().toDouble(&ok);
+    double Number = str.toDouble(&ok);
+    if(ok == false)
+    {
+ Number = 0;
+ str.remove(0,str.length());
+ txtPeakValue->setText(str);
+    }
+    else if(Number <= txtLClipTo->text().toDouble() || Number >= txtRClipFrom->text())
+    {
+     Number = 0.333333;
+     str.sprintf("%0.12lf",Number);
+     txtPeakValue->setText(str);
+    } 
+}
+
+void Omega_Peak_Inputs::closeEvent(QCloseEvent *event)
+{
+    if(closeFlag == true)
+    {
+ closeFlag = false;
+ event->accept();
+    }
+    else
+ event->ignore();
+}
+
+void Omega_Peak_Inputs::txtInitOmega_textChanged( const QString & Num)
+{
+    bool ok;
+    QString str = Num;
+    double gene_seqLength;
+    
+    gene_seqLength = txtOmegaNum->text().toDouble(&ok);
+    double Number = str.toDouble(&ok);
+    if(ok == false)
+    {
+ Number = 0;
+ str.remove(0,str.length());
+ txtInitOmega->setText(str);
+    } 
+    else if(Number < 2.0 / gene_seqLength || Number >= txtEnd->text().toDouble(&ok))
+    {
+ Number = (0.001 >= 2.0/ gene_seqLength ? 0.001 : 2.0/ gene_seqLength);
+ str.sprintf("%0.12lf",Number);
+ txtInitOmega->setText(str);
+    }
+    else if(Number > txtLClipFrom->text().toDouble(&ok))
+    {
+ Number = 2.0/ gene_seqLength;
+ str.sprintf("%0.12lf",Number);
+ txtInitOmega->setText(str);
+    }
+}
+
+void Omega_Peak_Inputs::txtEnd_textChanged( const QString &Num)
+{
+    bool ok;
+    QString str = Num;
+    double gene_seqLength;
+    
+    gene_seqLength = txtOmegaNum->text().toDouble(&ok);
+    double Number = str.toDouble(&ok);
+    if(ok == false)
+    {
+ Number = 0;
+ str.remove(0,str.length());
+ txtEnd->setText(str);
+    } 
+    else if(Number <= txtInitOmega->text().toDouble(&ok) || Number > 1.0 - 2.0/ gene_seqLength)
+    {
+ Number = ((1.00 - 0.001) <= 1.0 - txtInitOmega->text().toDouble(&ok) ? 1.00 - 0.001 : 1.0 - txtInitOmega->text().toDouble(&ok));
+ str.sprintf("%0.12lf",Number);
+ txtEnd->setText(str);
+    }
+    else if(Number < txtRClipTo->text().toDouble(&ok))
+    {
+ Number = 1.0 - txtInitOmega->text().toDouble(&ok);
+ str.sprintf("%0.12lf",Number);
+ txtEnd->setText(str);
+    }
+}
+
+void Omega_Peak_Inputs::txtWith_textChanged( const QString &Num)
+{
+    bool ok;
+    QString str = Num;
+    double gene_seqLength;
+    
+    gene_seqLength = txtOmegaNum->text().toDouble(&ok);
+    double Number = str.toDouble(&ok);
+    if(ok == false)
+    {
+ Number = 0;
+ str.remove(0,str.length());
+ txtWith->setText(str);
+    }
+    else if(Number < 1.0 / gene_seqLength || Number > txtEnd->text().toDouble(&ok) - txtInitOmega->text().toDouble(&ok))
+    {
+ Number = (0.001 >= 1.0/ gene_seqLength ? 0.001 : 1.0/ gene_seqLength);
+ str.sprintf("%0.12lf",Number);
+ txtWith->setText(str);
+    }
+}
+
+void Omega_Peak_Inputs::cmdOK_clicked()
+{
+    bool ok,isProperInput;
+    QString str;
+    isProperInput = false;
+           
+   /*if(chkAdaptive->isChecked())
+    {
+ isAdaptive = 1;
+ isGet_OmegaPeak = true;
+ closeFlag = true;
+ close();
+    }
+    else
+    {*/
+ if(not(txtLClipFrom->text() == "" || txtLClipTo->text() == "" || txtRClipFrom->text() == "" || txtRClipTo->text() == "" || txtPeakValue->text() == ""))
+ {
+     str.sprintf("%0.12lf",txtLClipFrom->text().toDouble(&ok));
+  //gp_Omega->From1 = str.toDouble(&ok); 
+                  *From1 = str.toDouble(&ok);
+     str.sprintf("%0.12lf",txtLClipTo->text().toDouble(&ok));
+     //gp_Omega->To1 = str.toDouble(&ok);
+              
+     str.sprintf("%0.12lf",txtRClipFrom->text().toDouble(&ok));
+     //gp_Omega->From2 = str.toDouble(&ok);
+                 
+     str.sprintf("%0.12lf",txtRClipTo->text().toDouble(&ok));
+     //gp_Omega->To2 = str.toDouble(&ok);
+                   
+     str.sprintf("%0.12lf",txtPeakValue->text().toDouble(&ok));
+     //gp_Omega->PeakValue = str.toDouble(&ok);
+                 
+     isProperInput = true;
+ }
+ else
+ {
+     isProperInput = false;
+     ErrorSlot(0);
+ }
+
+ if(isProperInput == true)
+ {
+     if(txtInitOmega->text().toDouble(&ok) >= 0.0 && txtEnd->text().toDouble(&ok) > 0.0 && txtWith->text().toDouble(&ok) > 0.0 && txtEnd->text().toDouble(&ok) > txtInitOmega->text().toDouble(&ok) && txtWith->text().toDouble(&ok) < txtEnd->text().toDouble(&ok))
+     { 
+  str.sprintf("%0.12lf",txtInitOmega->text().toDouble(&ok));
+ // gp_Omega->Omega_From = str.toDouble(&ok);
+                            
+  str.sprintf("%0.12lf",txtEnd->text().toDouble(&ok));
+ // gp_Omega->Omega_To = str.toDouble(&ok);
+                            
+  str.sprintf("%0.12lf",txtWith->text().toDouble(&ok));
+ // gp_Omega->Omega_Interval = str.toDouble(&ok);
+  
+  isAdaptive = 0;
+  isGet_OmegaPeak = true;
+  closeFlag = true;
+  close();
+     }
+     else 
+  ErrorSlot(1);
+ }
+    
+}
+
+void Omega_Peak_Inputs::cmdCancel_clicked()
+{
+    isAdaptive = -1;
+    isGet_OmegaPeak = false;
+    closeFlag = true;
+    close();
+}
+
+void Omega_Peak_Inputs::ErrorSlot( int Status )
+{
+    QString Msg,Title;
+    switch(Status)
+    {
+            case 0:
+          Title.sprintf("%s","Error!");
+                 Msg.sprintf("%s","Initial or Terminating Clip Ranges \n& Peak Values: one or all\n values are not given!");
+          break; 
+            case 1:
+          Title.sprintf("%s","Error!");  
+          Msg.sprintf("%s","All Field Values are not \ngiven Correctly\nfrom value must be < to\n & interval < to"); 
+    }
+       
+    switch( QMessageBox::warning( this, Title,Msg,"Retry",0, 0, 0, 1 ) ) 
+    {
+          case 0: // The user clicked the Retry again button or pressed Enter
+       // try again
+       break;
+         /* case 1: // The user clicked the Quit or pressed Escape
+       exit(1);*/
+    }
+}
+
+void Omega_Peak_Inputs::FileErrorSlot( QString Msg )
+{
+    switch( QMessageBox::warning( this, QString("File Error!"),Msg,"Retry",0, 0, 0, 1 ) ) 
+    {
+          case 0: // The user clicked the Retry again button or pressed Enter
+       // try again
+       break;
+          /*case 1: // The user clicked the Quit or pressed Escape
+       exit(1);;*/
+    }
+}
+
+void Omega_Peak_Inputs::destroy()
+{
+    
+}
+
+
+void Omega_Peak_Inputs::Omega_Peak_Inputs_destroyed( QObject * )
+{
+
+}

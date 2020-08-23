@@ -1,0 +1,1226 @@
+aldehyde ferredoxin oxidoreductase (aor-1) 	25503	27281
+alcohol dehydrogenase, iron-containing 	27284	28534
+cyanate transport protein (cynX) 	28539	29720
+Sep-tRNA:Cys-tRNA synthetase 	31091	32206
+mannosephosphate isomerase, putative 	37450	38349
+polysaccharide ABC transporter, ATP-binding protein (rfbB-1) 	44093	44806
+polysaccharide ABC transporter, permease protein (rfbA-1) 	44803	45567
+succinyl-diaminopimelate desuccinylase (dapE-1) 	58049	59158
+50S ribosomal protein L37Ae 	61335	61586
+ATP-dependent RNA helicase, putative 	68830	71109
+nitrate ABC transporter, permease protein (nrtB-1) 	83680	84414
+nitrate ABC transporter, ATP-binding protein (nrtC-1) 	84378	85109
+thiamine biosynthesis protein, putative 	85106	86008
+sulfate ABC transporter, ATP-binding protein (cysA) 	89891	90613
+sulfate ABC transporter, permease protein (cysT) 	90591	91376
+fructose-bisphosphate aldolase 	100398	101195
+transcriptional regulatory protein, Sir2 family 	104233	104994
+5-aminoimidazole-4-carboxamide-1-beta-D-ribofuranosyl 5'-monophosphate--formate ligase 	105046	106125
+pyruvate formate-lyase activating enzyme (act-1) 	107875	108837
+acetylpolyamine aminohydrolase (aphA) 	118313	119392
+acetyl-CoA acetyltransferase 	120644	121879
+3-ketoacyl-CoA thiolase (acaB-4) 	121876	123072
+conserved hypothetical protein, C-terminus 	125354	125872
+ferredoxin (fdx-2) 	147522	147704
+flavoprotein (fprA-1) 	147701	148711
+arsenical resistance operon repressor, putative 	148835	149113
+reductase, assembly protein 	152197	152676
+molybdopterin oxidoreductase, membrane subunit 	152673	153896
+molybdopterin oxidoreductase, iron-sulfur binding subunit 	153893	154648
+molybdopterin oxidoreductase, molybdopterin binding subunit 	154653	157343
+tungsten formylmethanofuran dehydrogenase, subunit E (fwdE) 	157402	157971
+Sep-tRNA:Cys-tRNA synthetase 	160990	162162
+nifU protein (nifU-1) 	164142	164603
+nifS protein, class-V aminotransferase (nifS-1) 	164609	165787
+cytochrome C oxidase, subunit II, putative 	167215	167769
+signal-transducing histidine kinase 	182491	183936
+histidinol dehydrogenase (hisD) 	188172	189386
+Na+/H+ antiporter (napA-1) 	193282	194415
+TRK potassium uptake system protein (trkA-1) 	194412	195581
+2-isopropylmalate synthase 	195581	197092
+branched-chain amino acid ABC transporter, ATP-binding protein (braG-1) 	198805	199479
+branched-chain amino acid ABC transporter, ATP-binding protein (braF-1) 	199466	200311
+chorismate mutase/prephenate dehydratase (pheA) 	203791	205653
+3-dehydroquinate dehydratase (aroD) 	205650	206240
+3-dehydroquinate synthase 	206242	207213
+fructose-bisphosphate aldolase 	207188	207970
+heat shock protein (htpX) 	210600	211607
+H/ACA RNA-protein complex component Cbf5p 	213248	214225
+iron-dependent repressor (desR) 	221060	221638
+iron (II) transporter (feoB-1) 	221689	223608
+NADH-dependent flavin oxidoreductase 	225074	226210
+NADH oxidase (noxA-1) 	230864	232183
+5-formaminoimidazole-4-carboxamide-1-(beta)-D-ribofuranosyl 5'-monophosphate synthetase 	232716	233837
+glutamyl-tRNA synthetase 	235906	237561
+medium-chain acyl-CoA ligase (alkK-2) 	238828	240483
+alkyl hydroperoxide reductase 	246755	247342
+heterodisulfide reductase, subunit B, putative 	247501	248316
+ISA1214-1 transposase 	258458	258601
+ISA1214-2 transposase 	278708	278851
+glycosyl transferase 	291051	292025
+rhamnosyl transferase (rfbQ) 	292019	292879
+dTDP-4-dehydrorhamnose 3,5-epimerase and related enzyme 	292876	293373
+dTDP-4-dehydrorhamnose reductas 	293385	294242
+dTDP-glucose 4,6-dehydratase (rfbB) 	294244	295242
+glucose-1-phosphate thymidylyltransferase (graD-2) 	295251	296309
+pheromone shutdown protein (traB) 	302206	303396
+archaeal histone A1 (hpyA1-1) 	308265	308483
+type II secretion system protein (gspE-1) 	308760	310547
+nigerythrin, putative 	313595	314047
+tryptophan repressor binding protein (wrbA) 	314185	314760
+desulfoferrodoxin, putative 	314765	315142
+mercuric transport protein periplasmic component (merP) 	315997	316611
+DNA repair protein RAD25 	324520	325878
+UDP-glucose 4-epimerase (galE-1) 	326924	327841
+translation initiation factor IF-2B subunit alpha 	335026	336045
+N-glycosylase/DNA lyase 	336055	336651
+acetyl-CoA decarbonylase/synthase complex subunit gamma 	339798	341210
+acetyl-CoA decarbonylase/synthase complex subunit delta 	341214	342572
+CODH nickel-insertion accessory protein (cooC-1) 	342578	343354
+acetyl-CoA decarbonylase/synthase complex subunit beta 	343437	345011
+transmembrane oligosaccharyl transferase, putative 	345258	347864
+endonuclease III, putative 	349351	349653
+ABC transporter, ATP-binding protein 	357275	358000
+D-lactate dehydrogenase, cytochrome-type (dld) 	358025	359356
+NADH oxidase (noxA-2) 	359369	360679
+NADH oxidase (noxA-3) 	363581	365236
+RNA 2'-phosphotransferase-like protein 	368371	369021
+uroporphyrin-III C-methyltransferase (cysG-1) 	380608	381339
+GTP-binding protein, GTP1/OBG-family 	385261	386247
+methyltransferase 	386270	387082
+iron (III) ABC transporter, ATP-binding protein (hemV-1) 	387240	387986
+iron (III) ABC transporter, permease protein (hemU-1) 	387991	388995
+iron (III) ABC transporter, ATP-binding protein (hemV-2) 	388992	390092
+3-hydroxyacyl-CoA dehydrogenase (hbd-3) 	391316	392230
+enoyl-CoA hydratase (fad-1) 	392235	393005
+acyl-CoA dehydrogenase (acd-2) 	393015	394163
+acetyl-CoA acetyltransferase 	394564	395727
+transcriptional regulatory protein, AsnC family 	395807	396304
+succinoglycan biosynthesis regulator (exsB) 	397392	398111
+NADH oxidase (noxB-1) 	411030	412928
+phosphomannomutase (pmm) 	414321	415661
+DNA gyrase, subunit A (gyrA) 	422440	424800
+immunogenic protein (bcsp31-1) 	427161	428228
+2-oxoglutarate ferredoxin oxidoreductase subunit beta 	428221	429024
+2-oxoglutarate ferredoxin oxidoreductase subunit alpha 	429021	430061
+2-ketoglutarate ferredoxin oxidoreductase, subunit delta (korD) 	430033	430236
+2-ketoglutarate ferredoxin oxidoreductase, subunit gamma (korG) 	430251	430814
+cation-transporting ATPase, P-type (pacS) 	431912	434326
+fuculose-1-phosphate aldolase (fucA) 	439304	439864
+iron-sulfur binding reductase 	464235	465335
+NADH oxidase, putative 	471145	472029
+protease synthase and sporulation regulator Pai1, putative 	476237	476680
+translation initiation factor IF-2 subunit alpha 	479725	480528
+cytochrome-c3 hydrogenase, subunit gamma 	480565	481263
+N-ethylammeline chlorohydrolase (trzA-1) 	501786	503054
+aminopeptidase, putative 	520729	521883
+archaeosine tRNA-ribosyltransferase (tgtA) 	529954	531399
+translation initiation factor IF-2 subunit gamma 	533652	534926
+dolichol phosphate mannose synthase, putative 	540613	541365
+LPS biosynthesis protein, putative 	543530	544720
+first mannosyl transferase (wbaZ-2) 	546307	547398
+LPS glycosyltransferase, putative 	547400	548440
+LPS biosynthesis protein, putative 	554919	555995
+ribonuclease HII (rnhB) 	558053	558670
+signal recognition particle protein Srp54 	558670	559971
+iron-sulfur cluster binding protein 	564133	565155
+3-isopropylmalate dehydrogenase 	565188	566168
+3-isopropylmalate dehydratase small subunit 	566165	566650
+nifU protein (nifU-3) 	567691	567924
+isoleucyl-tRNA synthetase 	568005	571061
+immunogenic protein (bcsp31-2) 	572166	573158
+nitrate ABC transporter, ATP-binding protein (nrtC-2) 	575646	576353
+nitrate ABC transporter, permease protein (nrtB-2) 	576332	577078
+nitrate ABC transporter, ATP-binding protein, putative 	577075	578154
+ISA1214-3 transposase 	578121	578279
+type II secretion system protein (gspE-2) 	593473	595008
+heterodisulfide reductase, subunit E, putative 	595336	596475
+heterodisulfide reductase, subunit A/methylviologen reducing hydrogenase, subunit delta 	596484	598727
+heterodisulfide reductase, subunit A (hdrA-1) 	598729	599943
+acyl-CoA dehydrogenase (acd-4) 	604076	605320
+medium-chain acyl-CoA ligase (alkK-3) 	605326	606840
+mercuric resistance operon regulatory protein (merR) 	606868	607260
+adenylate kinase 	608500	609153
+acetyl-CoA synthetase (acs-3) 	609226	611157
+glutamine ABC transporter, ATP-binding protein (glnQ) 	612364	613092
+acyl-CoA synthetase 	618140	619789
+DNA polymerase I 	625264	627201
+replication control protein A, putative 	627416	627988
+aspartate kinase 	631671	633059
+putative thiazole biosynthetic enzyme 	633910	634692
+phosphoenolpyruvate synthase 	640271	642532
+phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase (hisA-1) 	643324	643995
+cobalt-precorrin-6Y C(5)-methyltransferase 	648313	648906
+cobalt-precorrin-6A synthase 	648860	649756
+cobalamin biosynthesis precorrin-3 methylase (cbiH) 	649737	651077
+cobalamin biosynthesis precorrin methylase (cbiG) 	651052	651801
+cobalamin biosynthesis precorrin-3 methylase (cbiF) 	651749	652453
+cobalamin biosynthesis precorrin-2 methyltransferase (cbiL) 	652450	653055
+thiamine monophosphate kinase (thiL) 	656138	657028
+ribosome biogenesis protein 	656982	657641
+ribosomal protein S18 alanine acetyltransferase 	660229	660717
+GTP-binding protein 	663206	664903
+diaminopimelate epimerase (dapF) 	666467	667309
+heterodisulfide reductase, subunits E and D, putative 	674293	676257
+signal-transducing histidine kinase 	687349	688944
+replication factor A 	695689	696627
+magnesium and cobalt transporter (corA) 	699898	700953
+diaminopimelate decarboxylase (lysA) 	711825	713084
+30S ribosomal protein S15P 	713116	713574
+L-lactate dehydrogenase, cytochrome-type (lldD) 	717638	718738
+phosphoglycerate dehydrogenase (serA) 	723653	725236
+vtpJ-therm, putative 	726850	728106
+branched-chain amino acid ABC transporter, ATP-binding protein (braF-2) 	732757	733473
+branched-chain amino acid ABC transporter, ATP-binding protein (braG-2) 	733454	734200
+branched-chain amino acid ABC transporter, permease protein (braE-2) 	734212	735183
+branched-chain amino acid ABC transporter, permease protein (braD-2) 	735180	736073
+branched-chain amino acid ABC transporter, periplasmic binding protein (braC-2) 	736645	738030
+rubrerythrin (rr2) 	739654	740226
+rubrerythrin (rr1) 	740238	740804
+desulfoferrodoxin (dfx) 	740809	741186
+ferritin, putative 	741199	741720
+adenylosuccinate synthetase 	748015	749028
+acyl-CoA dehydrogenase (acd-5) 	750761	751906
+Na+/H+ antiporter (nhe2) 	751980	753464
+ISA1214-4 transposase 	763080	763223
+carboxylesterase (est-1) 	769724	770524
+glycerol kinase (glpK) 	770576	772054
+reductase, putative 	772051	773037
+alkyldihydroxyacetonephosphate synthase 	773034	774377
+glycerol-3-phosphate dehydrogenase (NAD(P)+) (gpsA) 	774882	775889
+amidophosphoribosyltransferase (purF) 	776152	777525
+50S ribosomal protein L37e 	777526	777705
+small nuclear ribonucleoprotein 	777705	777938
+glutamyl-tRNA(Gln) amidotransferase subunit D 	785540	786796
+argininosuccinate lyase (argH) 	786759	788210
+4-hydroxyphenylacetate-3-hydroxylase (hpaA-2) 	788730	790115
+S-adenosyl-L-homocysteine hydrolase 	790164	791144
+signal-transducing histidine kinase 	796989	797993
+hydantoin utilization protein A (hyuA) 	809655	811139
+dihydrodipicolinate reductase (dapB) 	813248	814021
+dihydrodipicolinate synthase 	814053	814922
+SSU ribosomal protein S17E (rps17E) 	814915	815112
+DNA topoisomerase VI subunit A 	840081	841163
+glutamine synthetase (glnA) 	849669	851144
+branched-chain amino acid ABC transporter, ATP-binding protein (braG-3) 	859400	860065
+branched-chain amino acid ABC transporter, ATP-binding protein (braF-3) 	860043	860681
+branched-chain amino acid ABC transporter, permease protein (braE-3) 	860665	861522
+branched-chain amino acid ABC transporter, permease protein (braD-3) 	861510	862235
+branched-chain amino acid ABC transporter, periplasmic binding protein (braC-3) 	862223	863395
+enoyl-CoA hydratase (fad-3) 	863392	864171
+acyl-CoA dehydrogenase (acd-6) 	864176	865360
+acetyl-CoA acetyltransferase 	866380	867582
+acetyl-CoA acetyltransferase 	867593	868759
+proline permease (putP-2) 	868965	870560
+osmoprotection protein (proW-1) 	881411	882025
+osmoprotection protein (proW-2) 	882018	882674
+osmoprotection protein (proV) 	882671	883756
+osmoprotection protein (proX) 	883753	884631
+ABC transporter, ATP-binding protein 	885791	886444
+imidazoleglycerol-phosphate dehydrogenase/histidinol-phosphatase (hisB) 	886453	886989
+phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase (hisA-2) 	886976	887692
+L-carnitine dehydratase (caiB-2) 	891233	892204
+glutaryl-CoA dehydrogenase (gcdH) 	892416	893603
+DNA repair and recombination protein RadA 	894676	895689
+type II secretion system protein (gspE-3) 	898194	899903
+N-ethylammeline chlorohydrolase (trzA-2) 	899964	901214
+NAD synthetase 	902708	903451
+ABC transporter, ATP-binding protein, putative 	906883	907983
+ABC transporter, ATP-binding protein 	907976	908833
+dihydroxy-acid dehydratase (ilvD) 	914249	915892
+ABC transporter, ATP-binding protein 	918053	918739
+bacteriochlorophyll synthase, 43 kDa subunit (chlP-2) 	921922	923016
+3-hydroxyacyl-CoA dehydrogenase (hbd-4) 	926228	927349
+4-hydroxyphenylacetate-3-hydroxylase (hpaA-3) 	928737	930179
+acetyl-CoA acetyltransferase 	930225	931415
+long-chain-fatty-acid--CoA ligase (fadD-5) 	931420	933201
+methyl-accepting chemotaxis protein (tlpC-1) 	940088	942121
+chemotaxis histidine kinase, putative 	942211	943500
+chemotaxis protein methyltransferase (cheR) 	944369	945181
+chemotaxis histidine kinase (cheA) 	946246	948216
+chemotaxis-specific methylesterase 	948206	949255
+chemotaxis response regulator (cheY) 	949258	949623
+purine-binding chemotaxis protein (cheW) 	950451	950933
+methyl-accepting chemotaxis protein (tlpC-2) 	950947	953451
+flagellar assembly protein J 	954864	956489
+type II secretion system protein (gspE-4) 	956493	958379
+flagellar accessory protein FlaH 	958482	959216
+flagellin (flaB1-1) 	961072	961683
+flagellin (flaB1-2) 	961688	962311
+cytochrome C-type biogenesis protein (ccdA) 	963004	963576
+response regulator 	968092	968496
+ABC transporter, ATP-binding protein, putative 	968515	970377
+pantothenate permease (panF-1) 	972726	974201
+coenzyme F390 synthetase (ftsA-1) 	974292	975533
+mannose-6-phosphate isomerase/mannose-1-phosphate guanylyl transferase (manC) 	984354	985700
+fumarate hydratase 	985841	986383
+fumarate hydratase 	986383	987201
+deoxyuridine 5'-triphosphate nucleotidohydrolase 	993501	994007
+O-sialoglycoprotein endopeptidase 	995286	996257
+SSU ribosomal protein S27AE (rps27AE) 	996254	996421
+SSU ribosomal protein S24E (rps24E) 	996436	996768
+DNA-directed RNA polymerase, subunit E'' (rpoE2) 	997318	997506
+DNA-directed RNA polymerase subunit E' 	997506	998075
+P450 cytochrome, putative 	1004321	1004776
+acyl-CoA dehydrogenase (acd-8) 	1016291	1017454
+glucose-1-phosphate cytidylyltransferase (rfbF) 	1017490	1018215
+multidrug resistance protein 	1018859	1020214
+4-hydroxybutyrate CoA transferase (cat2-1) 	1020246	1021694
+3-phosphoglycerate kinase (pgk) 	1021803	1023026
+transcriptional regulatory protein, AsnC family 	1024228	1024677
+iron-sulfur cluster binding protein 	1029481	1030572
+phosphoribosylamine--glycine ligase (purD) 	1033072	1034484
+iron-sulfur cluster binding protein 	1056595	1056990
+3-hydroxyacyl-CoA dehydrogenase 	1060943	1061830
+dihydroxynaphthoic acid synthase (menB) 	1061831	1062664
+replication factor C large subunit 	1065772	1067211
+N5,N10-methylenetetrahydromethanopterin reductase (mer-2) 	1067239	1068285
+3-ketoacyl-CoA thiolase (fadA-2) 	1068351	1069625
+glutaconate CoA-transferase, subunit A (gctA) 	1070406	1071749
+molybdopterin oxidoreductase, iron-sulfur binding subunit 	1073077	1073574
+molybdopterin oxidoreductase, molybdopterin binding subunit 	1073567	1075792
+pantothenate permease (panF-2) 	1075937	1077361
+3-hydroxyacyl-CoA dehydrogenase (hbd-8) 	1077415	1078362
+2-deoxy-D-gluconate 3-dehydrogenase (kduD) 	1078353	1079198
+phenylacrylic acid decarboxylase (pad1) 	1085035	1085583
+cell division protein, putative 	1085583	1086767
+ferredoxin (fdx-7) 	1106980	1107204
+tryptophan synthase subunit beta 	1107270	1108577
+oxaloacetate decarboxylase 	1116935	1118377
+ornithine carbamoyltransferase 	1119400	1120323
+response regulator 	1120351	1120737
+signal recognition particle, subunit SRP19 (srp19) 	1121714	1122028
+inosine monophosphate dehydrogenase, putative 	1122033	1122812
+phosphoribosylformylglycinamidine synthase subunit I 	1122849	1123664
+medium-chain acyl-CoA ligase (alkK-4) 	1123872	1124573
+NADH oxidase (noxB-2) 	1124707	1126605
+iron-sulfur cluster binding protein 	1126615	1127724
+metal-dependent hydrolase 	1128580	1129275
+acetylglutamate kinase (argB) 	1141715	1142587
+intracellular protease (pfpI) 	1142860	1143366
+cell division control protein, AAA family, putative 	1144771	1145829
+acetoin utilization protein, putative 	1145872	1146441
+acetyl-CoA synthetase (acs-6) 	1146699	1148459
+small heat shock protein (hsp20-1) 	1156364	1156888
+cell division control protein 48, AAA family (cdc48-1) 	1156904	1159105
+triosephosphate isomerase 	1163419	1164090
+bifunctional formaldehyde-activating enzyme/3-hexulose-6-phosphate synthase 	1164092	1165276
+thymidylate kinase, putative 	1167020	1167751
+bile acid-inducible operon protein F (baiF-3) 	1172599	1173594
+carbohydrate kinase, FGGY family 	1183494	1185011
+GTP-binding protein 	1186175	1186768
+pyruvate formate-lyase activating enzyme (act-3) 	1189253	1190263
+cobyric acid synthase 	1195740	1197134
+50S ribosomal protein L10e 	1197169	1197693
+citrate synthase (citZ) 	1197731	1198849
+thymidine phosphorylase 	1198851	1200365
+thymidine phosphorylase 	1200362	1201879
+hydrogenase expression/formation protein (hypE) 	1218271	1219305
+hydrogenase expression/formation regulatory protein (hypF) 	1219307	1221529
+F420-nonreducing hydrogenase (vhtD-1) 	1223799	1224191
+methylviologen-reducing hydrogenase, subunit alpha (vhuA) 	1224163	1225539
+methylviologen-reducing hydrogenase, subunit gamma (vhuG) 	1225536	1226417
+methylviologen-reducing hydrogenase, subunit delta (vhuD) 	1226414	1226818
+heterodisulfide reductase, subunit B (hdrB) 	1226815	1227699
+heterodisulfide reductase, subunit C (hdrC) 	1227701	1228183
+heterodisulfide reductase, subunit A (hdrA-2) 	1228180	1230159
+F420-nonreducing hydrogenase (vhtD-2) 	1230299	1230805
+quinone-reactive Ni/Fe-hydrogenase B-type cytochrome subunit (hydC) 	1230759	1231454
+F420-nonreducing hydrogenase (vhtA) 	1231456	1233165
+F420-nonreducing hydrogenase (vhtG) 	1233137	1234198
+ISA0963-4 transposase 	1234736	1235635
+branched-chain amino acid ABC transporter, ATP-binding protein (braG-4) 	1239330	1240040
+branched-chain amino acid ABC transporter, ATP-binding protein (braF-4) 	1240006	1240830
+branched-chain amino acid ABC transporter, periplasmic binding protein (braC-4) 	1240776	1242053
+iron (III) ABC transporter, ATP-binding protein (hemV-3) 	1251694	1252911
+iron (III) ABC transporter, permease protein (hemU-2) 	1252908	1253894
+transcriptional regulatory protein, AsnC family 	1254573	1254806
+modification methylase, type III R/M system 	1258647	1261556
+ISA0963-5 transposase 	1261645	1262718
+surface layer protein B (slgB-2) 	1265344	1272621
+dihydropteroate synthase 	1272726	1274156
+chloride channel, putative 	1274153	1275922
+riboflavin synthase 	1276126	1276587
+aspartate aminotransferase (aspC) 	1276584	1277702
+glycerol-3-phosphate cytidyltransferase (taqD) 	1277702	1278115
+ribose-phosphate pyrophosphokinase (prsA-2) 	1278165	1278980
+membrane protein 	1279005	1279754
+aspartate racemase 	1282663	1283340
+glycerol uptake facilitator, MIP channel (glpF) 	1287436	1288176
+iron-sulfur flavoprotein (isf-1) 	1294137	1294799
+asparagine synthetase (asnB) 	1296130	1297245
+glutamyl-tRNA(Gln) amidotransferase subunit E 	1297277	1299118
+signal-transducing histidine kinase 	1332422	1333906
+response regulator 	1333887	1334288
+mitochondrial benzodiazepine receptor/sensory transduction protein 	1335730	1336191
+signal-transducing histidine kinase 	1338676	1341402
+indolepyruvate ferredoxin oxidoreductase, subunit alpha (iorA) 	1345963	1347834
+dehydrase, putative 	1353914	1354744
+aspartate-semialdehyde dehydrogenase 	1359746	1360777
+acyl-CoA synthetase 	1363502	1365160
+sugar fermentation stimulation protein A 	1370935	1371594
+DNA/pantothenate metabolism flavoprotein, putative 	1372104	1372682
+iron-sulfur flavoprotein (isf-2) 	1372675	1373262
+flavoprotein (fprA-2) 	1373259	1374725
+ferredoxin-thioredoxin reductase, catalytic subunit (ftrB) 	1384652	1384936
+glutaredoxin (grx-1) 	1384982	1385230
+carboxylesterase (est-2) 	1385351	1386106
+succinyl-CoA synthetase, alpha subunit (sucD-1) 	1387757	1388632
+succinyl-CoA synthetase, beta subunit (sucC-1) 	1388629	1389780
+octaprenyl-diphosphate synthase (ispB) 	1396046	1396924
+ribulose bisphosphate carboxylase, large subunit (rbcL-1) 	1425062	1426375
+tryptophan synthase subunit alpha 	1434885	1435631
+tryptophan synthase subunit beta 	1435628	1436821
+N-(5'-phosphoribosyl)anthranilate isomerase 	1436769	1437368
+anthranilate synthase component II (trpG) 	1437358	1437894
+anthranilate synthase component I 	1437891	1439126
+anthranilate synthase component II (trpD) 	1439105	1440745
+spermidine/putrescine ABC transporter, permease protein (potC) 	1442044	1442772
+spermidine/putrescine ABC transporter, permease protein (potB) 	1442769	1443515
+spermidine/putrescine ABC transporter, ATP-binding protein (potA) 	1443512	1444549
+signal-transducing histidine kinase, putative 	1454159	1456504
+pyruvoyl-dependent arginine decarboxylase 	1463921	1464169
+enoyl-CoA hydratase (fad-4) 	1471664	1472428
+histidyl-tRNA synthetase 	1472460	1473689
+prepro-subtilisin sendai, putative 	1482089	1484821
+alkaline serine protease (aprM) 	1484788	1485600
+signal sequence peptidase, putative 	1486751	1487623
+signal sequence peptidase (spc21) 	1488056	1488511
+ribonucleotide-diphosphate reductase subunit alpha 	1492471	1494729
+sn-glycerol-1-phosphate dehydrogenase (gldA) 	1503587	1504642
+endonuclease III (nth) 	1516877	1517506
+tryptophanyl-tRNA synthetase 	1518538	1519800
+2-hydroxy-6-oxo-6-phenylhexa-2,4-dienoic acid hydrolase (pcbD) 	1527768	1528484
+type I restriction-modification enzyme, R subunit 	1529242	1532115
+type I restriction-modification enzyme, S subunit 	1533144	1534169
+acetolactate synthase 3 regulatory subunit 	1539342	1539821
+acetolactate synthase 3 catalytic subunit 	1539831	1541489
+DNA ligase, putative 	1548270	1549211
+tRNA pseudouridine synthase A 	1553521	1554318
+glyceraldehyde-3-phosphate dehydrogenase 	1554648	1555670
+3-hydroxy-3-methylglutaryl-coenzyme A reductase (mvaA) 	1558523	1559833
+cofactor-independent phosphoglycerate mutase 	1572168	1573394
+carbohydrate kinase, FGGY family 	1573404	1574885
+lysophospholipase 	1574864	1575664
+dCMP deaminase, putative 	1582678	1583151
+dipeptide ABC transporter, dipeptide-binding protein (dppA) 	1585823	1587385
+atrazine chlorohydrolase, putative 	1596202	1597194
+iron-dependent repressor 	1603918	1604493
+methylthioadenosine phosphorylase (mtaP) 	1606033	1606764
+xanthine-guanine phosphoribosyltransferase (gptA-2) 	1606761	1607372
+DNA polymerase II small subunit 	1607374	1608840
+myo-inositol-1-phosphate synthase (ino1) 	1610121	1611299
+endoglucanase (celM) 	1611371	1612285
+phosphate regulatory protein, putative 	1613020	1613985
+TBP-interacting protein TIP49 	1626329	1627678
+cobalt transport ATP-binding protein (cbiO-2) 	1653338	1654054
+cobalt transport protein (cbiQ-2) 	1654039	1654770
+cobalamin biosynthesis protein (cbiM-2) 	1654754	1655575
+4-hydroxybutyrate CoA transferase (cat2-2) 	1663422	1664846
+NADH oxidase (noxA-5) 	1669875	1671221
+daunorubicin resistance membrane protein (drrB) 	1694464	1695219
+daunorubicin resistance ATP-binding protein (drrA) 	1695222	1696418
+cytidylate kinase 	1711670	1712212
+preprotein translocase subunit SecY 	1712876	1714357
+LSU ribosomal protein L15P (rpl15P) 	1714372	1714911
+50S ribosomal protein L30P 	1714908	1715366
+30S ribosomal protein S5P 	1715372	1715968
+50S ribosomal protein L18P 	1715965	1716528
+50S ribosomal protein L19e 	1716534	1716983
+50S ribosomal protein L32e 	1716980	1717369
+LSU ribosomal protein L6P (rpl6P) 	1717379	1717969
+30S ribosomal protein S8P 	1717920	1718315
+30S ribosomal protein S14P 	1718315	1718470
+50S ribosomal protein L5P 	1718467	1719003
+30S ribosomal protein S4e 	1719007	1719714
+50S ribosomal protein L24P 	1719711	1720073
+50S ribosomal protein L14P 	1720084	1720482
+30S ribosomal protein S17P 	1720463	1720798
+LSU ribosomal protein L29P (rpl29P) 	1721079	1721285
+30S ribosomal protein S3P 	1721206	1721895
+50S ribosomal protein L22P 	1721895	1722362
+30S ribosomal protein S19P 	1722362	1722763
+50S ribosomal protein L2P 	1722768	1723481
+LSU ribosomal protein L23P (rpl23P) 	1723493	1723744
+50S ribosomal protein L4P 	1723732	1724490
+50S ribosomal protein L3P 	1724493	1725488
+monoamine oxidase regulatory protein, putative 	1732712	1733197
+N(5),N(10)-methenyltetrahydromethanopterin cyclohydrolase 	1734175	1735125
+cell division inhibitor (minD-2) 	1735894	1736652
+phosphoribosylformylglycinamidine synthase II 	1739052	1741349
+Glu-tRNA amidotransferase, subunit A (gatA-1) 	1756553	1757914
+DNA helicase, putative 	1762714	1764075
+pyruvate formate-lyase activating enzyme (pflX) 	1764318	1765316
+transcriptional regulatory protein, Rok family 	1769655	1770419
+TPR domain-containing protein 	1771067	1772008
+small heat shock protein (hsp20-2) 	1772115	1772537
+delta-aminolevulinic acid dehydratase 	1774587	1775555
+glutamyl-tRNA reductase 	1775470	1776783
+proteasome-activating nucleotidase 	1776883	1778079
+heme exporter protein C (helC) 	1779783	1780439
+ABC transporter, permease protein 	1780476	1781270
+ABC transporter, ATP-binding protein 	1781254	1782015
+ABC transporter, periplasmic binding protein 	1782012	1782980
+iron-dependent repressor (troR) 	1782947	1783366
+virulence associated protein C (vapC-1) 	1798573	1798827
+iron-sulfur binding reductase 	1799094	1800158
+S-adenosyl-L-homocysteine hydrolase 	1800661	1801878
+histidinol-phosphate aminotransferase (hisC-1) 	1802412	1803371
+group II decarboxylase 	1803614	1804717
+acyl-CoA synthetase 	1832177	1833790
+seryl-tRNA synthetase 	1835004	1836365
+cytochrome C oxidase folding protein (coxD) 	1836389	1837234
+translation initiation factor IF-2B subunit delta 	1837297	1838238
+CDP-diacylglycerol--serine O-phosphatidyltransferase (pssA) 	1844223	1844888
+phosphatidylserine decarboxylase 	1844866	1845453
+cytochrome oxidase, subunit I, putative 	1845450	1846196
+thymidylate synthase, putative 	1846223	1847665
+2-ketoisovalerate ferredoxin oxidoreductase, subunit beta (vorB) 	1850576	1851412
+2-ketoisovalerate ferredoxin oxidoreductase, subunit alpha (vorA) 	1851409	1852509
+2-ketoisovalerate ferredoxin oxidoreductase, subunit delta (vorD) 	1852470	1852718
+2-ketoisovalerate ferredoxin oxidoreductase, subunit gamma (vorG) 	1852709	1853227
+replication factor C small subunit 	1856478	1857437
+signal recognition particle receptor (dpa) 	1858069	1859091
+prefoldin subunit alpha 	1859097	1859510
+50S ribosomal protein LX 	1859507	1859680
+translation initiation factor IF-6 	1859690	1860337
+LSU ribosomal protein L31E (rpl31E) 	1860338	1860604
+50S ribosomal protein L39e 	1860615	1860767
+30S ribosomal protein S19e 	1861110	1861553
+N-acetyl-gamma-glutamyl-phosphate reductase 	1861849	1862847
+tetrahydromethanopterin formyltransferase 	1863204	1864109
+thiamine phosphate pyrophosphorylase (thiE) 	1864159	1864791
+hydroxyethylthiazole kinase 	1864791	1865597
+oxaloacetate decarboxylase, sodium ion pump subunit (oadB) 	1870732	1871796
+oxaloacetate decarboxylase, biotin carboxyl carrier subunit, putative 	1871796	1872224
+protease inhibitor, putative 	1872221	1872502
+fibrillarin 	1872544	1873176
+ISA1214-5 transposase 	1880770	1880928
+DNA repair and recombination protein RadB 	1885554	1886219
+muconate cycloisomerase II (clcB) 	1889867	1890994
+signal-transducing histidine kinase 	1898905	1900731
+5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase 	1902085	1903020
+aspartyl/glutamyl-tRNA amidotransferase subunit B 	1905146	1906624
+transcriptional regulatory protein, LysR family 	1915131	1916105
+phosphoserine phosphatase (serB) 	1924011	1925045
+ISA1083-3 transposase 	1925241	1925789
+ISA1083-3 transposase 	1925782	1926267
+ferredoxin (fdx-8) 	1927039	1927209
+glutaredoxin (grx-2) 	1927867	1928142
+GTP-binding protein 	1928217	1929284
+putative molybdenum cofactor biosynthesis protein C 	1931504	1931974
+30S ribosomal protein S8e 	1932702	1933079
+tRNA nucleotidyltransferase (cca) 	1935007	1936320
+4-hydroxybenzoate octaprenyltransferase (ubiA) 	1948813	1949688
+molybdopterin converting factor, subunit 2 (moaE) 	1953377	1954096
+succinyl-CoA synthetase, alpha subunit (sucD-2) 	1956931	1957794
+succinyl-CoA synthetase, beta subunit (sucC-2) 	1957798	1958940
+rRNA (adenine-N6)-methyltransferase, putative 	1963084	1963626
+deoxyhypusine synthase (dys1-1) 	1963669	1964574
+potassium channel, putative 	1965331	1966518
+3-isopropylmalate dehydratase large subunit 	1966909	1968159
+tryptophan-specific permease, putative 	1969398	1970084
+HIT family protein (hit) 	1977082	1977564
+methylmalonyl-CoA mutase, subunit alpha, N-terminus (mcmA1) 	1980403	1982049
+methylmalonyl-CoA decarboxylase, biotin carboxyl carrier subunit (mmdC) 	1982059	1982481
+methylmalonyl-CoA decarboxylase, subunit alpha (mmdA) 	1982613	1984163
+methylmalonyl-CoA mutase, subunit alpha, C-terminus (mcmA2) 	1984572	1985006
+ISA1214-6 transposase 	1986695	1987657
+valyl-tRNA synthetase 	1987942	1990533
+2-hydroxyhepta-2,4-diene-1,7-dioate isomerase (hpcE-2) 	1990572	1991324
+cobyrinic acid a,c-diamide synthase (cbiA) 	1994054	1995430
+ferric uptake regulation protein (fur) 	1996892	1997278
+thermosome, subunit alpha (thsA) 	2002122	2003759
+adenylosuccinate lyase 	2005591	2006925
+acetyl-CoA acetyltransferase 	2006987	2008231
+acyl-CoA dehydrogenase (acd-11) 	2008270	2009478
+response regulator 	2014180	2014545
+dihydroorotase 	2014612	2015823
+competence-damage protein, putative 	2015810	2016499
+argininosuccinate synthase 	2016530	2017702
+multidrug resistance protein 	2024632	2026143
+imidazoleglycerol-phosphate synthase, subunit H (hisH) 	2030429	2031022
+NAD(P)H-flavin oxidoreductase 	2031825	2032349
+nucleotide-binding protein 	2033108	2033872
+acyl-CoA dehydrogenase (acd-12) 	2038525	2039760
+DNA polymerase, bacteriophage-type 	2040708	2041307
+DNA-directed RNA polymerase subunit D 	2044817	2045611
+30S ribosomal protein S11P 	2045611	2046012
+30S ribosomal protein S4 	2046012	2046530
+30S ribosomal protein S13P 	2046536	2046976
+bifunctional short chain isoprenyl diphosphate synthase (idsA) 	2047081	2048061
+isopentenyl pyrophosphate isomerase 	2048040	2048993
+acetylglutamate kinase, putative 	2049074	2049796
+mevalonate kinase (mvk) 	2049777	2050631
+group II decarboxylase 	2055047	2056291
+cytochrome oxidase,subunit I (cydA-1) 	2056335	2057423
+cytochrome oxidase, subunit I (cydA-2) 	2057410	2059017
+putative deoxyhypusine synthase 	2061052	2061948
+pyruvoyl-dependent arginine decarboxylase 	2062009	2062569
+arsenite transport protein (arsB) 	2066646	2067839
+methylated-DNA-protein-cysteine methyltransferase (ogt) 	2071513	2071956
+50S ribosomal protein L15e 	2075131	2075715
+30S ribosomal protein S3Ae 	2075733	2076368
+fmu and fmv protein 	2078248	2079561
+translation initiation factor IF-2 subunit beta 	2079824	2080237
+spermidine synthase (speE) 	2085360	2086169
+carboxylesterase (est-3) 	2086716	2087459
+mRNA 3'-end processing factor, putative 	2106330	2107205
+long-chain-fatty-acid--CoA ligase (fadD-9) 	2113616	2115304
+iron (II) transporter (feoB-2) 	2136006	2137697
+iron-dependent repressor 	2137714	2138160
+ATP-dependent RNA helicase, putative 	2148772	2151072
+DNA repair protein, putative 	2160530	2161156
+response regulator 	2161153	2161497
+signal-transducing histidine kinase, putative 	2161475	2163118
+leucyl-tRNA synthetase 	2163159	2165957
+methanol dehydrogenase regulatory protein (moxR) 	2168340	2169314
+pyruvoyl-dependent arginine decarboxylase 	2174844	2175317
+hypothetical protein AF0001 	406	786
+hypothetical protein AF0002 	3222	3749
+hypothetical protein AF0022 	25221	25496
+hypothetical protein AF0029 	32238	32582
+hypothetical protein AF0032 	34153	34857
+hypothetical protein AF0046 	51610	53031
+hypothetical protein AF0048 	54242	55483
+hypothetical protein AF0049 	55526	56764
+hypothetical protein AF0053 	59760	60467
+hypothetical protein AF0054 	60485	60769
+hypothetical protein AF0055 	60772	61170
+hypothetical protein AF0056 	61191	61331
+hypothetical protein AF0058 	61625	62149
+hypothetical protein AF0059 	62116	62520
+hypothetical protein AF0062 	63463	64353
+hypothetical protein AF0063 	64406	64591
+hypothetical protein AF0065 	65075	65488
+hypothetical protein AF0066 	65485	65673
+hypothetical protein AF0067 	65799	66485
+hypothetical protein AF0068 	66497	67450
+hypothetical protein AF0069 	67451	67813
+hypothetical protein AF0070 	67800	68861
+hypothetical protein AF0072 	71266	71991
+hypothetical protein AF0073 	73048	73134
+hypothetical protein AF0078 	77684	78424
+hypothetical protein AF0081 	81167	81637
+hypothetical protein AF0083 	82710	82895
+hypothetical protein AF0084 	82867	83322
+hypothetical protein AF0094 	91373	92401
+hypothetical protein AF0095 	93028	93354
+hypothetical protein AF0096 	93365	93679
+hypothetical protein AF0097 	93981	94277
+hypothetical protein AF0098 	94327	94650
+hypothetical protein AF0099 	94932	95396
+hypothetical protein AF0100 	95387	95668
+hypothetical protein AF0101 	96293	96943
+hypothetical protein AF0102 	96947	97513
+hypothetical protein AF0104 	98203	98619
+hypothetical protein AF0105 	98616	98927
+hypothetical protein AF0109 	101220	101543
+hypothetical protein AF0111 	103218	104117
+hypothetical protein AF0118 	108806	109150
+hypothetical protein AF0123 	113210	113617
+hypothetical protein AF0124 	113617	114486
+hypothetical protein AF0126 	115134	115214
+hypothetical protein AF0127 	115211	116638
+hypothetical protein AF0129 	117660	118325
+hypothetical protein AF0132 	120115	120588
+hypothetical protein AF0135 	123012	123458
+hypothetical protein AF0136 	123518	124075
+hypothetical protein AF0145 	129386	129724
+hypothetical protein AF0146 	129935	130150
+hypothetical protein AF0147 	130213	130737
+hypothetical protein AF0150 	132113	132382
+hypothetical protein AF0151 	132594	132896
+hypothetical protein AF0153 	135309	135917
+hypothetical protein AF0169 	149118	149579
+hypothetical protein AF0180 	160088	160948
+hypothetical protein AF0182 	162174	163208
+hypothetical protein AF0183 	163186	163584
+hypothetical protein AF0184 	163800	164138
+hypothetical protein AF0187 	165768	166127
+hypothetical protein AF0188 	166128	166361
+hypothetical protein AF0189 	166714	167004
+hypothetical protein AF0191 	167905	168165
+hypothetical protein AF0192 	168189	168416
+hypothetical protein AF0213 	189412	190191
+hypothetical protein AF0234 	210161	210562
+hypothetical protein AF0241 	216526	216945
+hypothetical protein AF0251 	226918	228102
+hypothetical protein AF0257 	234324	234599
+hypothetical protein AF0258 	234541	234882
+hypothetical protein AF0263 	240673	242145
+hypothetical protein AF0266 	243677	244507
+hypothetical protein AF0267 	244539	246332
+hypothetical protein AF0268 	246398	246511
+hypothetical protein AF0269 	246563	246748
+hypothetical protein AF0272 	248418	248849
+hypothetical protein AF0281 	259948	260247
+hypothetical protein AF0282 	260314	260655
+hypothetical protein AF0292 	270503	270847
+hypothetical protein AF0293 	270886	271341
+hypothetical protein AF0297 	273518	273628
+hypothetical protein AF0298 	273717	274094
+hypothetical protein AF0299 	274087	274395
+hypothetical protein AF0300 	274604	274756
+hypothetical protein AF0301 	274995	275198
+hypothetical protein AF0304 	277582	278661
+hypothetical protein AF0307 	280145	280906
+hypothetical protein AF0308 	281004	281312
+hypothetical protein AF0310 	282240	282905
+hypothetical protein AF0312 	286442	287284
+hypothetical protein AF0330 	301727	302209
+hypothetical protein AF0332 	303372	304460
+hypothetical protein AF0341 	313452	313598
+hypothetical protein AF0345 	315382	315876
+hypothetical protein AF0351 	319309	319989
+hypothetical protein AF0352 	319999	320685
+hypothetical protein AF0353 	320747	321307
+hypothetical protein AF0354 	321282	321998
+hypothetical protein AF0357 	323136	324542
+hypothetical protein AF0365 	330412	330939
+hypothetical protein AF0369 	334859	334996
+hypothetical protein AF0372 	336648	337331
+hypothetical protein AF0392 	355855	357309
+hypothetical protein AF0396 	360699	361481
+hypothetical protein AF0407 	369009	369518
+hypothetical protein AF0408 	369515	370333
+hypothetical protein AF0414 	377070	377504
+hypothetical protein AF0415 	377587	377793
+hypothetical protein AF0416 	377790	377978
+hypothetical protein AF0417 	377992	378564
+hypothetical protein AF0418 	378623	379162
+hypothetical protein AF0419 	379119	379859
+hypothetical protein AF0420 	379844	380053
+hypothetical protein AF0421 	380067	380582
+hypothetical protein AF0433 	390093	391193
+hypothetical protein AF0437 	394164	394559
+hypothetical protein AF0440 	396387	396734
+hypothetical protein AF0441 	396734	397411
+hypothetical protein AF0445 	402623	403108
+hypothetical protein AF0446 	403314	403694
+hypothetical protein AF0447 	403661	404209
+hypothetical protein AF0460 	417856	418260
+hypothetical protein AF0461 	418261	419016
+hypothetical protein AF0462 	419013	419843
+hypothetical protein AF0466 	425075	427129
+hypothetical protein AF0475 	434914	436026
+hypothetical protein AF0476 	436023	436262
+hypothetical protein AF0504 	462747	463652
+hypothetical protein AF0507 	465332	466360
+hypothetical protein AF0514 	470589	471152
+hypothetical protein AF0524 	478091	478768
+hypothetical protein AF0525 	478765	479544
+hypothetical protein AF0526 	479549	479728
+hypothetical protein AF0534 	486827	487786
+hypothetical protein AF0539 	490166	490861
+hypothetical protein AF0540 	490863	491549
+hypothetical protein AF0541 	491546	491959
+hypothetical protein AF0543 	492925	494541
+hypothetical protein AF0544 	494553	496118
+hypothetical protein AF0545 	496135	497061
+hypothetical protein AF0562 	511521	511901
+hypothetical protein AF0567 	514312	514758
+hypothetical protein AF0568 	514935	515399
+hypothetical protein AF0587 	528381	529967
+hypothetical protein AF0591 	533278	533685
+hypothetical protein AF0600 	541398	542330
+hypothetical protein AF0601 	542327	543361
+hypothetical protein AF0603 	544900	544995
+hypothetical protein AF0604 	544970	545332
+hypothetical protein AF0605 	546159	546335
+hypothetical protein AF0608 	548993	549208
+hypothetical protein AF0612 	551483	551869
+hypothetical protein AF0613 	551859	552176
+hypothetical protein AF0614 	552522	552803
+hypothetical protein AF0615 	552908	553297
+hypothetical protein AF0616 	553294	554895
+hypothetical protein AF0618 	556102	556392
+hypothetical protein AF0619 	556482	556592
+hypothetical protein AF0626 	563091	563747
+hypothetical protein AF0630 	566682	567275
+hypothetical protein AF0631 	567272	567688
+hypothetical protein AF0636 	573155	575194
+hypothetical protein AF0637 	575185	575643
+hypothetical protein AF0644 	579867	579974
+hypothetical protein AF0653 	586980	587270
+hypothetical protein AF0657 	591223	591660
+hypothetical protein AF0658 	591632	593476
+hypothetical protein AF0660 	595054	595329
+hypothetical protein AF0666 	601894	602211
+hypothetical protein AF0690 	621785	622543
+hypothetical protein AF0698 	630183	630398
+hypothetical protein AF0699 	630377	631693
+hypothetical protein AF0701 	633101	633913
+hypothetical protein AF0703 	634702	634971
+hypothetical protein AF0706 	637615	638826
+hypothetical protein AF0720 	647277	647921
+hypothetical protein AF0721 	647918	648316
+hypothetical protein AF0743 	662506	662922
+hypothetical protein AF0746 	665728	666477
+hypothetical protein AF0752 	671070	671339
+hypothetical protein AF0753 	671374	672840
+hypothetical protein AF0754 	673088	674227
+hypothetical protein AF0758 	678040	678957
+hypothetical protein AF0759 	678954	679742
+hypothetical protein AF0760 	679723	682602
+hypothetical protein AF0761 	682583	682900
+hypothetical protein AF0762 	682888	683403
+hypothetical protein AF0763 	683367	683939
+hypothetical protein AF0772 	690388	691437
+hypothetical protein AF0773 	691416	691604
+hypothetical protein AF0774 	691597	691929
+hypothetical protein AF0775 	691926	692687
+hypothetical protein AF0779 	695003	695689
+hypothetical protein AF0784 	698643	698888
+hypothetical protein AF0785 	698960	699988
+hypothetical protein AF0790 	703715	704269
+hypothetical protein AF0792 	705274	706044
+hypothetical protein AF0794 	706615	707622
+hypothetical protein AF0799 	711301	711837
+hypothetical protein AF0805 	715207	715884
+hypothetical protein AF0817 	728196	730055
+hypothetical protein AF0826 	736222	736626
+hypothetical protein AF0829 	738581	739132
+hypothetical protein AF0830 	739129	739638
+hypothetical protein AF0835 	741738	742061
+hypothetical protein AF0842 	749109	749318
+hypothetical protein AF0844 	749845	750726
+hypothetical protein AF0851 	757186	758580
+hypothetical protein AF0859 	764087	765208
+hypothetical protein AF0860 	765205	765474
+hypothetical protein AF0862 	767006	768454
+hypothetical protein AF0863 	768451	769344
+hypothetical protein AF0864 	769337	769717
+hypothetical protein AF0869 	774374	774700
+hypothetical protein AF0870 	774700	774861
+hypothetical protein AF0878 	780715	781308
+hypothetical protein AF0879 	781323	782447
+hypothetical protein AF0891 	795866	796141
+hypothetical protein AF0898 	803984	804145
+hypothetical protein AF0905 	809294	809668
+hypothetical protein AF0907 	811172	812431
+hypothetical protein AF0912 	815137	816834
+hypothetical protein AF0913 	816886	817224
+hypothetical protein AF0915 	817649	818104
+hypothetical protein AF0921 	823430	824152
+hypothetical protein AF0922 	824168	824584
+hypothetical protein AF0924 	825024	825611
+hypothetical protein AF0925 	825637	826584
+hypothetical protein AF0927 	827095	827661
+hypothetical protein AF0928 	827854	828486
+hypothetical protein AF0929 	828428	829153
+hypothetical protein AF0944 	843002	844147
+hypothetical protein AF0945 	844116	845321
+hypothetical protein AF0946 	845388	848498
+hypothetical protein AF0947 	848779	849177
+hypothetical protein AF0948 	849146	849589
+hypothetical protein AF0955 	856621	857700
+hypothetical protein AF0956 	857690	857869
+hypothetical protein AF0965 	865378	865842
+hypothetical protein AF0966 	865845	866375
+hypothetical protein AF0970 	870560	870820
+hypothetical protein AF0983 	885172	885858
+hypothetical protein AF0987 	887723	888115
+hypothetical protein AF0995 	896237	898192
+hypothetical protein AF0999 	902055	902711
+hypothetical protein AF1001 	903509	904093
+hypothetical protein AF1002 	904163	904618
+hypothetical protein AF1004 	905331	906899
+hypothetical protein AF1013 	913855	914265
+hypothetical protein AF1017 	916939	918072
+hypothetical protein AF1019 	918736	920115
+hypothetical protein AF1020 	920146	920643
+hypothetical protein AF1038 	945172	945645
+hypothetical protein AF1039 	945645	946262
+hypothetical protein AF1043 	949628	950437
+hypothetical protein AF1046 	953538	954209
+hypothetical protein AF1047 	954206	954850
+hypothetical protein AF1051 	959228	959713
+hypothetical protein AF1052 	959707	960195
+hypothetical protein AF1053 	960228	961037
+hypothetical protein AF1056 	962423	963289
+hypothetical protein AF1058 	963616	963972
+hypothetical protein AF1061 	966538	967452
+hypothetical protein AF1062 	967449	967982
+hypothetical protein AF1072 	976192	976401
+hypothetical protein AF1074 	976959	977153
+hypothetical protein AF1075 	977247	977525
+hypothetical protein AF1076 	977510	977698
+hypothetical protein AF1077 	977838	978230
+hypothetical protein AF1078 	978214	978351
+hypothetical protein AF1079 	978348	978434
+hypothetical protein AF1080 	978455	978715
+hypothetical protein AF1081 	978708	978881
+hypothetical protein AF1084 	979439	979630
+hypothetical protein AF1086m 	979723	980157
+hypothetical protein AF1087 	980154	980351
+hypothetical protein AF1088 	980677	980874
+hypothetical protein AF1089 	981026	981451
+hypothetical protein AF1090 	981448	981627
+hypothetical protein AF1091 	981671	982090
+hypothetical protein AF1092 	982074	982259
+hypothetical protein AF1093 	982318	982575
+hypothetical protein AF1094 	982572	982790
+hypothetical protein AF1095 	983094	983282
+hypothetical protein AF1096 	983795	984220
+hypothetical protein AF1107 	993025	993465
+hypothetical protein AF1109 	994030	994371
+hypothetical protein AF1110 	994355	994906
+hypothetical protein AF1115 	996761	997321
+hypothetical protein AF1118 	998138	998674
+hypothetical protein AF1151 	1028042	1028368
+hypothetical protein AF1154 	1030569	1031156
+hypothetical protein AF1172 	1045766	1046476
+hypothetical protein AF1186 	1056987	1058462
+hypothetical protein AF1187 	1058602	1059951
+hypothetical protein AF1188 	1059944	1060471
+hypothetical protein AF1189 	1060468	1060659
+hypothetical protein AF1192 	1062697	1064691
+hypothetical protein AF1193 	1064742	1065323
+hypothetical protein AF1194 	1065325	1065759
+hypothetical protein AF1200 	1071473	1072309
+hypothetical protein AF1204 	1075808	1075930
+hypothetical protein AF1208 	1079209	1079553
+hypothetical protein AF1209 	1079719	1080360
+hypothetical protein AF1210 	1080377	1081318
+hypothetical protein AF1223 	1093263	1094090
+hypothetical protein AF1224 	1094090	1094638
+hypothetical protein AF1225 	1094690	1095328
+hypothetical protein AF1226 	1095325	1095831
+hypothetical protein AF1227 	1095836	1096168
+hypothetical protein AF1228 	1096146	1096442
+hypothetical protein AF1229 	1096491	1098743
+hypothetical protein AF1230 	1098760	1099221
+hypothetical protein AF1231 	1099214	1100623
+hypothetical protein AF1237 	1103548	1104441
+hypothetical protein AF1246 	1113014	1113328
+hypothetical protein AF1248 	1114619	1115305
+hypothetical protein AF1249 	1115343	1115765
+hypothetical protein AF1250 	1115796	1116185
+hypothetical protein AF1251 	1116190	1116909
+hypothetical protein AF1257 	1120755	1121717
+hypothetical protein AF1276 	1138751	1139035
+hypothetical protein AF1278 	1139728	1140951
+hypothetical protein AF1279 	1140948	1141697
+hypothetical protein AF1294 	1154998	1155534
+hypothetical protein AF1295 	1155872	1156285
+hypothetical protein AF1298 	1159120	1159821
+hypothetical protein AF1306 	1165349	1166176
+hypothetical protein AF1309 	1167583	1168218
+hypothetical protein AF1312 	1170143	1171159
+hypothetical protein AF1314 	1171950	1172597
+hypothetical protein AF1317 	1175333	1176355
+hypothetical protein AF1318 	1176343	1177626
+hypothetical protein AF1321 	1179699	1180562
+hypothetical protein AF1322 	1180559	1182064
+hypothetical protein AF1327 	1186805	1186975
+hypothetical protein AF1331 	1190260	1191252
+hypothetical protein AF1335 	1192339	1192809
+hypothetical protein AF1345 	1203835	1204143
+hypothetical protein AF1350 	1205841	1206638
+hypothetical protein AF1355 	1209985	1210932
+hypothetical protein AF1382 	1234313	1234600
+hypothetical protein AF1385 	1236260	1236709
+hypothetical protein AF1387 	1237063	1237203
+hypothetical protein AF1398 	1246806	1249226
+hypothetical protein AF1399 	1249226	1251067
+hypothetical protein AF1400 	1251153	1251719
+hypothetical protein AF1403 	1253914	1254573
+hypothetical protein AF1405 	1254836	1255300
+hypothetical protein AF1406 	1255333	1257660
+hypothetical protein AF1407 	1257753	1258217
+hypothetical protein AF1408 	1258196	1258630
+hypothetical protein AF1411 	1263003	1264061
+hypothetical protein AF1412 	1264202	1265347
+hypothetical protein AF1421 	1279971	1282613
+hypothetical protein AF1423 	1283376	1284539
+hypothetical protein AF1427 	1288173	1288388
+hypothetical protein AF1428 	1288412	1289914
+hypothetical protein AF1429 	1290058	1290711
+hypothetical protein AF1431 	1290935	1291414
+hypothetical protein AF1432 	1291402	1291923
+hypothetical protein AF1437 	1294808	1295734
+hypothetical protein AF1438 	1295756	1296139
+hypothetical protein AF1441 	1299115	1299714
+hypothetical protein AF1442 	1299714	1300826
+hypothetical protein AF1444 	1301624	1302856
+hypothetical protein AF1445 	1302831	1304318
+hypothetical protein AF1454 	1314980	1315840
+hypothetical protein AF1455 	1315878	1316150
+hypothetical protein AF1456 	1316965	1317138
+hypothetical protein AF1457 	1317632	1317949
+hypothetical protein AF1459 	1320426	1320698
+hypothetical protein AF1460 	1320708	1321391
+hypothetical protein AF1474 	1334387	1335733
+hypothetical protein AF1480 	1337853	1338014
+hypothetical protein AF1481 	1338011	1338220
+hypothetical protein AF1482 	1338224	1338481
+hypothetical protein AF1484 	1341371	1341532
+hypothetical protein AF1486 	1342833	1344248
+hypothetical protein AF1487 	1344603	1345262
+hypothetical protein AF1488 	1345418	1345942
+hypothetical protein AF1494 	1350453	1351160
+hypothetical protein AF1502 	1356672	1356878
+hypothetical protein AF1503 	1356875	1357891
+hypothetical protein AF1504 	1357888	1358493
+hypothetical protein AF1505 	1358538	1359548
+hypothetical protein AF1507 	1360808	1361146
+hypothetical protein AF1508 	1361209	1362651
+hypothetical protein AF1509 	1362713	1363501
+hypothetical protein AF1511 	1365185	1367830
+hypothetical protein AF1512 	1367827	1368579
+hypothetical protein AF1513 	1368651	1369235
+hypothetical protein AF1514 	1369493	1369768
+hypothetical protein AF1517 	1371591	1372079
+hypothetical protein AF1524 	1378023	1378274
+hypothetical protein AF1525 	1378271	1379128
+hypothetical protein AF1526 	1379130	1379567
+hypothetical protein AF1527 	1379576	1380892
+hypothetical protein AF1528 	1381025	1381435
+hypothetical protein AF1533 	1383223	1384059
+hypothetical protein AF1538 	1386140	1387600
+hypothetical protein AF1541 	1389924	1391042
+hypothetical protein AF1542 	1391043	1391348
+hypothetical protein AF1549 	1395090	1395377
+hypothetical protein AF1552 	1396990	1397802
+hypothetical protein AF1563 	1407853	1408737
+hypothetical protein AF1564 	1408709	1409356
+hypothetical protein AF1565 	1409386	1409595
+hypothetical protein AF1580 	1420445	1420945
+hypothetical protein AF1582 	1421806	1422009
+hypothetical protein AF1583 	1422224	1423396
+hypothetical protein AF1584 	1423467	1423907
+hypothetical protein AF1588 	1426380	1427606
+hypothetical protein AF1589 	1427658	1428425
+hypothetical protein AF1590 	1428410	1429585
+hypothetical protein AF1596 	1433777	1434064
+hypothetical protein AF1597 	1434262	1434438
+hypothetical protein AF1598 	1434519	1434830
+hypothetical protein AF1613 	1450296	1450637
+hypothetical protein AF1614 	1450634	1451020
+hypothetical protein AF1616 	1452028	1452270
+hypothetical protein AF1617 	1452301	1452534
+hypothetical protein AF1618 	1452545	1453108
+hypothetical protein AF1619 	1453093	1454052
+hypothetical protein AF1621 	1456261	1457247
+hypothetical protein AF1631 	1464201	1464449
+hypothetical protein AF1636 	1467261	1467539
+hypothetical protein AF1654 	1485752	1486741
+hypothetical protein AF1656 	1487625	1488059
+hypothetical protein AF1658 	1488508	1489440
+hypothetical protein AF1659 	1489440	1490192
+hypothetical protein AF1660 	1490203	1490811
+hypothetical protein AF1661 	1490830	1491582
+hypothetical protein AF1662 	1491716	1491985
+hypothetical protein AF1663 	1492050	1492340
+hypothetical protein AF1675 	1504706	1505089
+hypothetical protein AF1677 	1505856	1507091
+hypothetical protein AF1678 	1507155	1507778
+hypothetical protein AF1680 	1509070	1509663
+hypothetical protein AF1681 	1509605	1510243
+hypothetical protein AF1688 	1514364	1515188
+hypothetical protein AF1691 	1516077	1516880
+hypothetical protein AF1704 	1525914	1526729
+hypothetical protein AF1707 	1528586	1529245
+hypothetical protein AF1709 	1532237	1533151
+hypothetical protein AF1711 	1534421	1534864
+hypothetical protein AF1712 	1534851	1535066
+hypothetical protein AF1713 	1535184	1535363
+hypothetical protein AF1714 	1535466	1535648
+hypothetical protein AF1717 	1538639	1539061
+hypothetical protein AF1718 	1539082	1539282
+hypothetical protein AF1726 	1549208	1550068
+hypothetical protein AF1731 	1554315	1554626
+hypothetical protein AF1733 	1555667	1555804
+hypothetical protein AF1737 	1559773	1561701
+hypothetical protein AF1739 	1562966	1564072
+hypothetical protein AF1742 	1565190	1566455
+hypothetical protein AF1745 	1567428	1567955
+hypothetical protein AF1754 	1575704	1576006
+hypothetical protein AF1755 	1575996	1576655
+hypothetical protein AF1756 	1576771	1577076
+hypothetical protein AF1757 	1577239	1577613
+hypothetical protein AF1758 	1577623	1578204
+hypothetical protein AF1759 	1578754	1579758
+hypothetical protein AF1762 	1580933	1581118
+hypothetical protein AF1765 	1583148	1583900
+hypothetical protein AF1777 	1597386	1598123
+hypothetical protein AF1786 	1604547	1605080
+hypothetical protein AF1787 	1605070	1605999
+hypothetical protein AF1796 	1612415	1612966
+hypothetical protein AF1800 	1615716	1616738
+hypothetical protein AF1801 	1616741	1617421
+hypothetical protein AF1803 	1618684	1619616
+hypothetical protein AF1807 	1622960	1623268
+hypothetical protein AF1809 	1623699	1623965
+hypothetical protein AF1821 	1635419	1635664
+hypothetical protein AF1834 	1647548	1648117
+hypothetical protein AF1835 	1648114	1648947
+hypothetical protein AF1844 	1655739	1656011
+hypothetical protein AF1845 	1655972	1656838
+hypothetical protein AF1846 	1656933	1657343
+hypothetical protein AF1847 	1657537	1657788
+hypothetical protein AF1848 	1657839	1658030
+hypothetical protein AF1852 	1661908	1662960
+hypothetical protein AF1859 	1671367	1672236
+hypothetical protein AF1860 	1672244	1672417
+hypothetical protein AF1861 	1672700	1673731
+hypothetical protein AF1862 	1673728	1674195
+hypothetical protein AF1863 	1674176	1675243
+hypothetical protein AF1864 	1675227	1675541
+hypothetical protein AF1865 	1675522	1676487
+hypothetical protein AF1866 	1676488	1677513
+hypothetical protein AF1867 	1677510	1680524
+hypothetical protein AF1868 	1680461	1681450
+hypothetical protein AF1869 	1681502	1682143
+hypothetical protein AF1877 	1688164	1688733
+hypothetical protein AF1878 	1688708	1689745
+hypothetical protein AF1879 	1689742	1690587
+hypothetical protein AF1881 	1692028	1692771
+hypothetical protein AF1882 	1693606	1694202
+hypothetical protein AF1897 	1708952	1710019
+hypothetical protein AF1901 	1712214	1712879
+hypothetical protein AF1917 	1720795	1721103
+hypothetical protein AF1926 	1725485	1726255
+hypothetical protein AF1927 	1726313	1726933
+hypothetical protein AF1934 	1733245	1734096
+hypothetical protein AF1936 	1735175	1735858
+hypothetical protein AF1939 	1738777	1738893
+hypothetical protein AF1941 	1741354	1741596
+hypothetical protein AF1964 	1767353	1767841
+hypothetical protein AF1986 	1784407	1785018
+hypothetical protein AF1987 	1785025	1785675
+hypothetical protein AF1988 	1790775	1791302
+hypothetical protein AF1997 	1798793	1799014
+hypothetical protein AF1999 	1800257	1800673
+hypothetical protein AF2001 	1801882	1802418
+hypothetical protein AF2003 	1803460	1803609
+hypothetical protein AF2008 	1806881	1807201
+hypothetical protein AF2020 	1818372	1818947
+hypothetical protein AF2025 	1822420	1822965
+hypothetical protein AF2026 	1822958	1824592
+hypothetical protein AF2027 	1824436	1825119
+hypothetical protein AF2028 	1825167	1826990
+hypothetical protein AF2031 	1829116	1829976
+hypothetical protein AF2040 	1841100	1842290
+hypothetical protein AF2043 	1843933	1844118
+hypothetical protein AF2056 	1853260	1853601
+hypothetical protein AF2059 	1855891	1856481
+hypothetical protein AF2061 	1857452	1858072
+hypothetical protein AF2068 	1860772	1861107
+hypothetical protein AF2070 	1861558	1861785
+hypothetical protein AF2076 	1865659	1866570
+hypothetical protein AF2077 	1866577	1867389
+hypothetical protein AF2078 	1867386	1868417
+hypothetical protein AF2079 	1868395	1868853
+hypothetical protein AF2080 	1868887	1869420
+hypothetical protein AF2081 	1869420	1870010
+hypothetical protein AF2082 	1870122	1870268
+hypothetical protein AF2083 	1870359	1870610
+hypothetical protein AF2088 	1873173	1873958
+hypothetical protein AF2089 	1873939	1874880
+hypothetical protein AF2097 	1886188	1887375
+hypothetical protein AF2102 	1894023	1894676
+hypothetical protein AF2103 	1894712	1895155
+hypothetical protein AF2104 	1895165	1896304
+hypothetical protein AF2105 	1896301	1896570
+hypothetical protein AF2111 	1901441	1902082
+hypothetical protein AF2113 	1903022	1903321
+hypothetical protein AF2114 	1903366	1904190
+hypothetical protein AF2115 	1904187	1905149
+hypothetical protein AF2119 	1908351	1910576
+hypothetical protein AF2120 	1910695	1911147
+hypothetical protein AF2121 	1911154	1911624
+hypothetical protein AF2122 	1911634	1912062
+hypothetical protein AF2123 	1912067	1912498
+hypothetical protein AF2124 	1912608	1913036
+hypothetical protein AF2125 	1913033	1914010
+hypothetical protein AF2126 	1914070	1914966
+hypothetical protein AF2130 	1918026	1918325
+hypothetical protein AF2131 	1918699	1919688
+hypothetical protein AF2132 	1919960	1920694
+hypothetical protein AF2133 	1920752	1921612
+hypothetical protein AF2137 	1923163	1924014
+hypothetical protein AF2141 	1926476	1927162
+hypothetical protein AF2143 	1927166	1927555
+hypothetical protein AF2147 	1929329	1929916
+hypothetical protein AF2149 	1930872	1931507
+hypothetical protein AF2154 	1933800	1934291
+hypothetical protein AF2155 	1934306	1935010
+hypothetical protein AF2157 	1936317	1936847
+hypothetical protein AF2158 	1936847	1937068
+hypothetical protein AF2159 	1937047	1937952
+hypothetical protein AF2160 	1937957	1938442
+hypothetical protein AF2161 	1938469	1938648
+hypothetical protein AF2162 	1938735	1939268
+hypothetical protein AF2163 	1939259	1939837
+hypothetical protein AF2164 	1939992	1940390
+hypothetical protein AF2165 	1940397	1941140
+hypothetical protein AF2166 	1941053	1941517
+hypothetical protein AF2167 	1941522	1942463
+hypothetical protein AF2168 	1942700	1943074
+hypothetical protein AF2169 	1943053	1943463
+hypothetical protein AF2170 	1943489	1944463
+hypothetical protein AF2171 	1944580	1945215
+hypothetical protein AF2172 	1945222	1946145
+hypothetical protein AF2174 	1947578	1947679
+hypothetical protein AF2175 	1947970	1948791
+hypothetical protein AF2180 	1954087	1954614
+hypothetical protein AF2182 	1955300	1955578
+hypothetical protein AF2183 	1955627	1956280
+hypothetical protein AF2184 	1956308	1956934
+hypothetical protein AF2187 	1959006	1959302
+hypothetical protein AF2198 	1966547	1966912
+hypothetical protein AF2203 	1970072	1970431
+hypothetical protein AF2209 	1976008	1976772
+hypothetical protein AF2210 	1976780	1977016
+hypothetical protein AF2218 	1984172	1984567
+hypothetical protein AF2221 	1985611	1986633
+hypothetical protein AF2227 	1992434	1993402
+hypothetical protein AF2231 	1995743	1996729
+hypothetical protein AF2236 	2000852	2001487
+hypothetical protein AF2240 	2004997	2005188
+hypothetical protein AF2241 	2005220	2005615
+hypothetical protein AF2246 	2012242	2012775
+hypothetical protein AF2259 	2026175	2027437
+hypothetical protein AF2260 	2027415	2028005
+hypothetical protein AF2261 	2028002	2028898
+hypothetical protein AF2270 	2033953	2034360
+hypothetical protein AF2274 	2038176	2038382
+hypothetical protein AF2276 	2039824	2040711
+hypothetical protein AF2292 	2052707	2053570
+hypothetical protein AF2293 	2053548	2053754
+hypothetical protein AF2294 	2053777	2054943
+hypothetical protein AF2298 	2059144	2059986
+hypothetical protein AF2299 	2060021	2061055
+hypothetical protein AF2306 	2065070	2065543
+hypothetical protein AF2307 	2065540	2066637
+hypothetical protein AF2309 	2067840	2069453
+hypothetical protein AF2315 	2071956	2072480
+hypothetical protein AF2316 	2072477	2074033
+hypothetical protein AF2317 	2074113	2074712
+hypothetical protein AF2318 	2074697	2075134
+hypothetical protein AF2325 	2079531	2079815
+hypothetical protein AF2330 	2082909	2083298
+hypothetical protein AF2331 	2083295	2083573
+hypothetical protein AF2333 	2084251	2085393
+hypothetical protein AF2337 	2088264	2089175
+hypothetical protein AF2342 	2093066	2093329
+hypothetical protein AF2343 	2093322	2093519
+hypothetical protein AF2358 	2103892	2105070
+hypothetical protein AF2363 	2107785	2109107
+hypothetical protein AF2369 	2115345	2116334
+hypothetical protein AF2370 	2116368	2116973
+hypothetical protein AF2393 	2135713	2136090
+hypothetical protein AF2396 	2138141	2138377
+hypothetical protein AF2403 	2147626	2147844
+hypothetical protein AF2407 	2151109	2151720
+hypothetical protein AF2408 	2151942	2152394
+hypothetical protein AF2422 	2166016	2166504
+hypothetical protein AF2423 	2166513	2167142
+hypothetical protein AF2424 	2167139	2168359
+hypothetical protein AF2432 	2175504	2175947
+hypothetical protein AF2433 	2175922	2176281
+hypothetical protein AF2434 	2176398	2176676
+hypothetical protein AF2435 	2176667	2177635
+hypothetical protein AF2436 	2177643	2178146

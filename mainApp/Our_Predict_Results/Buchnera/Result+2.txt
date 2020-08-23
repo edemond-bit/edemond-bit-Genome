@@ -1,0 +1,6 @@
+ribonuclease P protein component 	14525	14872
+mutator MutT protein 	221477	221851
+flagellar basal-body rod protein FlgB 	370621	370968
+16S rRNA processing protein RimM 	433588	434118
+hypothetical protein BU442 	482486	482821
+hypothetical protein BU553 	588828	589109

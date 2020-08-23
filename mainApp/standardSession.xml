@@ -1,0 +1,14 @@
+<main>
+  <session>
+      <folder  path=""/>
+      <sesquence  path=""/>
+      <parameterFile path=""/>
+      <historyFiles count="">
+            <sessionFile name="" timeStamp=""/>
+            <sessionFile name="" timeStamp=""/>
+      </historyFiles>
+      <openTime>timeStamp</openTime>
+      <closeTime>timeStamp</closeTime>
+  </session>
+</main>
+

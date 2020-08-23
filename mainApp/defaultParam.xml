@@ -1,0 +1,173 @@
+<main>
+ 	<group name="ORF" >
+  		<group name="sequenceLength" >
+   			<param comment="ORF all sequence" value="true" id="10" />
+   			<param comment="ORF for specific length" value="false" id="11" />
+   			<param comment="ORF length minimum" value="" id="12" />
+   			<param comment="ORF length maximum" value="" id="13" />
+  		</group>
+  		<group name="codon" >
+  			 <param comment="startCodon" value="ATG, GTG" id="20" />
+   			<param comment="stopCodon" value="TAG, TGA, TAA" id="21" />
+ 		</group>
+  		<group name="filterSequence" >
+   			<param comment="max orf" value="true" id="30" />
+   			<param comment="best R-Statistic" value="false" id="31" />
+  		</group>
+  			<param comment="save orf in file" value="false" id="40" />
+ 	</group>
+ 	<group name="Prediction" >
+  		<group name="R-stat" >
+   			<group name="R-Statistic" >
+    				<group name="sequenceLength" >
+     					<param comment="ORF all sequence" value="true" id="110" />
+     					<param comment="ORF for specific length" value="false" id="111" />
+    					<param comment="ORF length minimum" value="" id="112" />
+     					<param comment="ORF length maximum" value="" id="113" />
+    				</group>
+    				<param comment="store R-Statistic values in file" value="R-Statistic" id="120" />
+    				<group name="frequency value" >
+     					<param comment="Fixed set of frequency value" value="false" id="130" />
+     					<param comment="frequency value" value="" id="131" />
+    				</group>
+    				<param comment="folder name to store R-Statistic value" value="R_stat_Results" id="140" />
+   			</group>
+   			<group name="Threshold for R-statistic" >
+    				<param comment="Potential Gene Sequence" value="potential_Gene" id="200" />
+    				<param comment="Non-Potential Gene" value="non_potential_Gene" id="210" />
+    				<param comment="potential_Non_Gene" value="potential_non_Gene" id="220" />
+    				<group name="sequenceLength" >
+     					<param comment="ORF all sequence" value="true" id="230" />
+     					<param comment="ORF for specific length" value="false" id="231" />
+     					<param comment="ORF length minimum" value="" id="232" />
+     					<param comment="ORF length maximum" value="" id="233" />
+    				</group>
+    				<group name="Omega Peak Location Input" >
+     					<param comment="default check box" value="true" id="240" />
+     					<group name="detail of omega peak location input" />
+    				</group>
+   				<param comment="R-Statistic for Gene" value="0.75" id="250" />
+    				<param comment="R-Statistic for Non-Gene" value="1.25" id="260" />
+    				<group name="random detail" >
+     					<group name="random state of computation">
+     						<param comment="Parameter already computed" value="false" id="270" />
+     						<param comment="Skip random Computation" value="false" id="280" />
+    					</group>
+    					<group name="parameter of random computation" />
+    					<param comment="minimum ORF length" value="300" id="290" />
+    					<param comment="maximum ORF length" value="500" id="295" />
+    					<param comment="How many orf to be perturbed?" value="500" id="300" />
+   					<param comment="Number of swap" value="35" id="305" />
+    					<param comment="Number of mutation length" value="35" id="310" />
+    					<param comment="Number of ORF for each sequence" value="10" id="315" />
+    					<param comment="CountBigGene" value="" id="316"/>
+    					<param comment="CountBigNGene" value="" id="317"/>
+   				</group>
+   			</group>
+   			<group name="F-ration computation">
+ 				<group name="F-ratio computation based on" >
+  					<param comment="compute with tri neucleotide" value="true" id="320" />
+  					<param comment="compute with tetra neucleotide" value="false" id="330" />
+ 				</group>
+ 				<group name="F-ratio Threshold" >
+  					<param comment="Threshold for F-Ratio" value="true" id="339" />
+  					<param comment="Threshold for F-Ratio" value="" id="340" />
+ 				</group>
+ 			</group>
+			<group name="nearest neighbourhood" >
+  				<param comment="Potential gene to be sampled" value="200" id="350" />
+				<param comment="Potential non-gene to be sampled" value="200" id="360" />
+  				<group name="above two values are in" >
+   					<param comment="%" value="false" id="470" />
+   					<param comment="count" value="true" id="480" />
+  				</group>
+  				<param comment="number of random sample" value="100" id="490" />
+  				<param comment="lower trim % for gene average" value="3" id="500" />
+  				<param comment="upper trim % for gene average" value="3" id="510" />
+  				<param comment="lower trim % for non-gene average" value="3" id="520" />
+  				<param comment="upper trim % for non-gene average" value="3" id="530" />
+  				<param comment="use auto generated value" value="false" id="540" />
+ 			</group>
+ 			<group name="Threshold for small gene" >
+  				<param comment="threshold for small gene" value="0.75" id="550" />
+ 			</group>
+  		</group>
+  		<group name="p-value">
+			<group name="p-value computation">
+  	    		<group name="sequence length">
+	  	   		<param comment="ORF all sequence" value="true" id="600"/>
+  	        		<param comment="ORF for specific length" value="false" id="610"/>
+		  	        <param comment="ORF length minimum" value="" id="620"/>
+		  	        <param comment="ORF length maximum" value="" id="630"/>
+		  	</group>
+			<param comment="Store P-Values in file" value="Sequence_P_Value" id="640"/>
+			<group name="frequency value">
+				<param comment="Fixed set of freuency value" value="false" id="650"/>
+  	         		<param comment="Frequency value" value="" id="660"/>
+  	    		</group>
+  	    		<param comment="Folder name to store p-value" value="P-Value-results" id="670"/>
+  	    		<param comment="Number of Monte-Carlo-Replication" value="100" id="680"/>
+  	    		<param comment="Number of Swap(% of length of sequence" value="35" id="690"/>
+  	    		<param comment="Number of mutation (% of lengthof sequence)" value="35" id="700"/>	  
+  		</group>
+  		<group name="Threshold for P-value">
+  			<param comment="Potential Gene Sequence"  value="potential_gene" id="710"/>
+  			<param comment="Non Potential Gene"       value="non_potential_gene" id="720"/>
+  			<param comment="Potential Non Gene"  value="potential-non-gene" id="730"/>
+  			<group name="sequence length">
+  			    <param comemnt="ORF all sequence" value="true" id="740"/>
+  			    <param comment="ORF for specific length" value="false" id="750"/>
+  			    <param comment="ORF length minimum" value="" id="760"/>
+  			    <param comment="ORF length maximum" value="" id="770"/>  
+	  		</group>
+	  		<param comment="P-Value for Gene" value="35" id="780"/>
+	  		<param comment="P-Value for Non-Gene" value="50" id="790"/>
+	  		
+	  		
+	  		<group name="Random detail">
+	  			<group name="Random state of computation">
+	  		        	<param comment="Parameter already computed" value="false" id="800"/>
+	  	           		<param comment="Skip random Computation" value="false" id="810"/>
+	  	       		</group>
+	  	       		<group name="Parameter of random computation">
+	  	       			<param  comment="minimum ORF length" value="300" id="820"/>
+	  	       			<param comment="maximum ORF length" value="500" id="830"/>
+	  	       			<param comment="How many ORF to be perturbed" value="500" id="840"/>
+	  	       			<param comment="Number of swap"  value="35" id="850"/>
+	  	       			<param comment="Number of mutation length" value="35" id="860"/>
+	  	       			<param comment="Number of ORF for each sequence" value="10" id="870"/>
+	  	       			<param comment="Count Big Gene" value="" id="880"/>
+	  	       			<param comment="Count Big Non Gene" value="" id="890"/>
+	  	       		</group>
+	  		 </group>          
+	  	</group>
+		<group name="F-ration computation">
+ 				<group name="F-ratio computation based on" >
+  					<param comment="compute with tri neucleotide" value="true" id="892" />
+  					<param comment="compute with tetra neucleotide" value="false" id="894" />
+ 				</group>
+ 				<group name="F-ratio Threshold" >
+  					<param comment="Threshold for F-Ratio" value="true" id="895" />
+  					<param comment="Threshold for F-Ratio" value="" id="897" />
+ 				</group>
+ 			</group>
+		<group name="Nearest Neighbourhood">
+			<param comment="Potential Gene to be sampled" value="" id="900"/>
+			<param comment="Potential Non Gene to be sampled" value="" id="910"/>
+			<group  name="above two value are in">
+			    <param comment="%" value="false" id="920"/>
+			    <param comment="count" value="true" id="930"/>
+			</group>
+			<param comment="Number of random sample " value="100" id="940"/>
+			<param comment="Lower trim % for gene average" value="3" id="950"/>
+			<param comment="Upper trim % for gene average" value="3" id="960"/>
+			<param comment="Lower trim % for non-gene average" value="3" id="970"/>
+			<param comment="Upper trim % for non-gene average" value="3" id="980"/>
+			<param comment="use auto generated value"  value="false"  id="990"/>
+		</group>
+		<group name="Threshold for small gene">
+	  		<param comment="threshold for small gene" value="0.75" id="1000"/>
+		</group>
+  	</group>
+    </group>
+</main>

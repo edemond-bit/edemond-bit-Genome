@@ -1,0 +1,10 @@
+<states>
+	<state id="0"  	value="Pattern filtering computation not started"/>
+        <state id="5"   value="Pattern filterning has been choosen to skip"/>
+        <state id="10"  value="Pattern filtering computation has been started"/>
+	<state id="20" 	value="Pattern filtering computation is incomplete"/>
+
+	<state id="100" value="Pattern filtering computation completed"/>
+</states>
+	
+	

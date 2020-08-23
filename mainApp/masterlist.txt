@@ -1,0 +1,18 @@
+1) Path Count 					       				// Path Count e.g. 10
+2) Path Name					       				// e.g. path_ORF
+3) R-Statistictic Computation result's file            				// e.g. Upto R-Stat Calculation
+4) Potential Gene Sequence                 					
+5) Potential Non Gene Sequence							
+6) Non Potential Sequence                              				// Upto First Thresholding
+7) Result file Name ~ Number of Path geven as input    				// Upto Nearest Neighbourhood, e.g /NC_000918_ORF+.txt
+.
+.
+.
+
+1) Path Count                                                                   // e.g. 5
+2) How many file's (containing Sequence's) R-Stat value has been calculated     // e.g. 4 for ORF+,NORF+,ORF-,NORF-; 5 for ORF+,NORF+,ORF-,NORF-,RandomPathList 
+3) Total Sequence Count								// e.g, 13166
+4) Total Sequence Count including Random					// e.g, 18166 
+4) Potential Gene Count								// e.g, 
+5) Potential Non Gene Count							// e.g,
+6) Non Potential Sequence							// e.g,

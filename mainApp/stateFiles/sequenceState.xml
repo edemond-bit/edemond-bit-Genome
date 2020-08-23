@@ -1,0 +1,7 @@
+<states>
+	<state id="0" value="Computation not started"/>
+	<state id="100" value="Computation completed successfully. Results are
+	organized to relevant files"/>
+</states>
+	
+	

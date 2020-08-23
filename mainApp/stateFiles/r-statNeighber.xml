@@ -1,0 +1,8 @@
+<states>
+	<state id="0"  value="Neighbourhood computation not started"/>
+        <state id="10" value="Neighbourhood computation has been started"/>
+	<state id="20" value="Neighbourhood computation is incomplete"/>
+	<state id="100" value="Neighbourhood computation completed"/>
+</states>
+	
+	

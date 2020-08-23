@@ -1,0 +1,44 @@
+<sequencebase basepath="/home/dbt/NCBI_Results/" result="NCBI" >
+ <sequence file="/home/dbt/NCBI_Results/A.fulgidus/genome-result.csv" name="A.fulgidus" />
+ <sequence file="/home/dbt/NCBI_Results/A_aeolicus_VF5/genome_result.txt" name="A_aeolicus_VF5" />
+ <sequence file="/home/dbt/NCBI_Results/A_pernix_K1/genome_result.txt" name="A_pernix_K1" />
+ <sequence file="/home/dbt/NCBI_Results/B.burgdorferi/genome-result.txt" name="B.burgdorferi" />
+ <sequence file="/home/dbt/NCBI_Results/B_anthrasis/genome_result.txt" name="B_anthrasis" />
+ <sequence file="/home/dbt/NCBI_Results/B_halodurans/genome_result.txt" name="B_halodurans" />
+ <sequence file="/home/dbt/NCBI_Results/b_subtilis/genome-result.txt" name="b_subtilis" />
+ <sequence file="/home/dbt/NCBI_Results/Buchnera/genome_result.txt" name="Buchnera" />
+ <sequence file="/home/dbt/NCBI_Results/C_jejuni/genome_result.txt" name="C_jejuni" />
+ <sequence file="/home/dbt/NCBI_Results/C_muridarum/genome_result.txt" name="C_muridarum" />
+ <sequence file="/home/dbt/NCBI_Results/C_perfringens/genome_result.txt" name="C_perfringens" />
+ <sequence file="/home/dbt/NCBI_Results/C_pneumoniae/genome_result.txt" name="C_pneumoniae" />
+ <sequence file="/home/dbt/NCBI_Results/C_tepidum/genome_result.txt" name="C_tepidum" />
+ <sequence file="/home/dbt/NCBI_Results/C_trachomatis_HAR-13/genome_result.txt" name="C_trachomatis_HAR-13" />
+ <sequence file="/home/dbt/NCBI_Results/D_radiodurans/genome_result.txt" name="D_radiodurans" />
+ <sequence file="/home/dbt/NCBI_Results/EcoliK12/genome-result.txt" name="EcoliK12" />
+ <sequence file="/home/dbt/NCBI_Results/G_sulfurreducens/genome_result.txt" name="G_sulfurreducens" />
+ <sequence file="/home/dbt/NCBI_Results/Haemophilus_influenzae/genome-result.txt" name="Haemophilus_influenzae" />
+ <sequence file="/home/dbt/NCBI_Results/Halobacterium/genome_result.txt" name="Halobacterium" />
+ <sequence file="/home/dbt/NCBI_Results/Hpylori_26695/genome-result.txt" name="Hpylori_26695" />
+ <sequence file="/home/dbt/NCBI_Results/Hpylori_J99/genome-result.txt" name="Hpylori_J99" />
+ <sequence file="/home/dbt/NCBI_Results/M.jannaschii/genome-result.txt" name="M.jannaschii" />
+ <sequence file="/home/dbt/NCBI_Results/M.pneumoniae/genome_result.txt" name="M.pneumoniae" />
+ <sequence file="/home/dbt/NCBI_Results/M.thermautotrophicus/genome-result.txt" name="M.thermautotrophicus" />
+ <sequence file="/home/dbt/NCBI_Results/M_tuberculosis/genome_result.txt" name="M_tuberculosis" />
+ <sequence file="/home/dbt/NCBI_Results/N_meningitidis/genome_result.txt" name="N_meningitidis" />
+ <sequence file="/home/dbt/NCBI_Results/P_abyssi/genome_result.txt" name="P_abyssi" />
+ <sequence file="/home/dbt/NCBI_Results/P_aeruginosa/genome_result.txt" name="P_aeruginosa" />
+ <sequence file="/home/dbt/NCBI_Results/P_fluorescens/genome_result.txt" name="P_fluorescens" />
+ <sequence file="/home/dbt/NCBI_Results/P_horikoshii_OT3/genome_result.txt" name="P_horikoshii_OT3" />
+ <sequence file="/home/dbt/NCBI_Results/R_prowazekii_Madrid/genome_result.txt" name="R_prowazekii_Madrid" />
+ <sequence file="/home/dbt/NCBI_Results/R_solanacearum/genome_result.txt" name="R_solanacearum" />
+ <sequence file="/home/dbt/NCBI_Results/S_epidermidis/genome_result.txt" name="S_epidermidis" />
+ <sequence file="/home/dbt/NCBI_Results/STyphi_CT18/genome-result.txt" name="STyphi_CT18" />
+ <sequence file="/home/dbt/NCBI_Results/Synechocystis/genome-result.txt" name="Synechocystis" />
+ <sequence file="/home/dbt/NCBI_Results/T.maritima/genome-result.txt" name="T.maritima" />
+ <sequence file="/home/dbt/NCBI_Results/T.pallidum_subsp/genome-result.txt" name="T.pallidum_subsp" />
+ <sequence file="/home/dbt/NCBI_Results/T_acidophilum/genome_result.txt" name="T_acidophilum" />
+ <sequence file="/home/dbt/NCBI_Results/U_parvum_serovar/genome_result.txt" name="U_parvum_serovar" />
+ <sequence file="/home/dbt/NCBI_Results/untitled folder 1" name="untitled folder 1" />
+ <sequence file="/home/dbt/NCBI_Results/Vcholerae/vc1" name="Vcholerae" />
+ <sequence file="/home/dbt/NCBI_Results/X_fastidiosa/genome_result.txt" name="X_fastidiosa" />
+</sequencebase>

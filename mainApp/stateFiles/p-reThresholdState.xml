@@ -1,0 +1,6 @@
+<states>
+	<state id="0"  value="Small gene computation not started"/>
+	<state id="100" value="Small gene computation completed"/>
+</states>
+	
+	

@@ -1,0 +1,2 @@
+GTPase EngB 	470619	471236
+50S ribosomal protein L36 	549558	549674

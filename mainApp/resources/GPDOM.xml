@@ -1,0 +1,100 @@
+<application workingDirectory="">
+    <sequence name="" path="" state="" staeTable="sequenceState">
+          <orfData state="" stateTable="orfstates">
+	  	<processDetail>
+	      		<startDate></startDate>
+	      		<startTime></startTime>
+	      		<endDate></endDate>
+	      		<endTime></endTime>
+		</processDetail>
+	      	<parameters>
+	      	
+	      	</parameters>
+	  </orfData>
+	  <randomSequence state="" stateTable="randomseqstates">
+		<processDetail>
+	      		<startDate></startDate>
+			<startTime></startTime>
+	    		<endDate></endDate>
+	      		<endTime></endTime>
+		</processDetail>
+	       	<parameters>
+	      	
+	      	</parameters>
+	</randomSequence>
+	<prediction>
+		<r-statistic state="" stateTable="rstatisticstates">
+	      		<processDetail>
+	      			<startDate></startDate>
+		      		<startTime></startTime>
+		      		<endDate></endDate>
+		      		<endTime></endTime>
+			</processDetail>
+	    		<parameters>
+	      	
+		      	</parameters>
+      			<threshold state="" stateTable="Rthresholdstate">
+				<processDetail>
+		      			<startDate></startDate>
+			      		<startTime></startTime>
+			      		<endDate></endDate>
+			      		<endTime></endTime>
+				</processDetail>
+			      	<parameters>
+					
+      			      	</parameters>
+      			</threshold>
+			<neighberhood state="" stateTable="Rneighberhood">
+				<processDetail>
+		      			<startDate></startDate>
+			      		<startTime></startTime>
+			      		<endDate></endDate>
+			      		<endTime></endTime>
+				</processDetail>
+			      	<parameters>
+				
+      			      	</parameters>
+			</neighberhood>
+  		</r-statistic>
+  		<p-value state="" stateTable="pvaluestates">
+			<processDetail>
+      				<startDate></startDate>
+	      			<startTime></startTime>
+	      			<endDate></endDate>
+	      			<endTime></endTime>
+			</processDetail>
+		      	<parameters>
+			
+      		      	</parameters>
+      			<threshold state="" stateTable="Pthresholdstate">
+				<processDetail>
+		      			<startDate></startDate>
+			      		<startTime></startTime>
+			      		<endDate></endDate>
+			      		<endTime></endTime>
+				</processDetail>
+			      	<parameters>
+				
+      			      	</parameters>
+      			</threshold>
+			<neighberhood state="" stateTable="Pneighberhood">
+				<processDetail>
+		      			<startDate></startDate>
+			      		<startTime></startTime>
+			      		<endDate></endDate>
+			      		<endTime></endTime>
+				</processDetail>
+			      	<parameters>
+				
+      			      	</parameters>
+			</neighberhood>
+  		</p-value>
+	</prediction>
+        <processlogFiles>
+	 	<nameSpace-R/>
+     		<nameSpace-P/>
+	     	<misc-R/>
+	      	<misc-P/>
+	</processlogFiles>
+    </sequence>
+</application>      
